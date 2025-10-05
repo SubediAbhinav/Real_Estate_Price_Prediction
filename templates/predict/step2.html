@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% block title %}Step 2 - Categorical Features{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    <h2 class="mb-4">Step 2: Enter Categorical Property Details</h2>
+    <form method="POST" action="{{ url_for('predict.step2') }}">
+        <!-- City -->
+        <div class="mb-3">
+            <label for="City" class="form-label">City</label>
+            <select class="form-select" id="City" name="City" required>
+                <option value="">-- Select City --</option>
+                <option>Kathmandu</option>
+                <option>Lalitpur</option>
+                <option>Bhaktapur</option>
+                <option>Pokhara</option>
+                <option>Chitwan</option>
+                <option>Makwanpur</option>
+                <option>Nawalparasi</option>
+                <option>Dharan</option>
+                <option>Jhapa</option>
+            </select>
+        </div>
+
+        <!-- Road Type -->
+        <div class="mb-3">
+            <label for="Road_Type" class="form-label">Road Type</label>
+            <select class="form-select" id="Road_Type" name="Road_Type" required>
+                <option value="">-- Select Road Type --</option>
+                <option>Paved</option>
+                <option>Gravelled</option>
+                <option>Soil Stabilized</option>
+            </select>
+        </div>
+
+        <!-- Neighborhood -->
+        <div class="mb-3">
+            <label for="Neighborhood" class="form-label">Neighborhood</label>
+            <input type="text" class="form-control" id="Neighborhood" name="Neighborhood"
+                   placeholder="Enter neighborhood name"
+                   required minlength="2" maxlength="50" 
+                   pattern="^[A-Za-z\s\-]+$">
+            <div class="invalid-feedback">
+                Neighborhood must be 2–50 characters, letters/spaces/hyphens only.
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Predict Price</button>
+    </form>
+</div>
+{% endblock %}

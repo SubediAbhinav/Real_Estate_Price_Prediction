@@ -1,0 +1,130 @@
+:root {
+  /* Background gradient (soft pastel theme) */
+  --bg-start: #eef2ff;   /* light lavender */
+  --bg-end: #f8fafc;     /* light slate */
+  
+  /* Brand & accents */
+  --brand: #6366f1;        /* indigo-500 */
+  --brand-hover: #4f46e5;  /* indigo-600 */
+  --accent: #f59e0b;       /* amber-500 */
+  --text-primary: #1e293b; /* slate-800 */
+  --text-muted: #64748b;   /* slate-500 */
+
+  /* Glass + border */
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(0, 0, 0, 0.08);
+  --section-bg: rgba(255, 255, 255, 0.9);
+  --section-border: rgba(0, 0, 0, 0.1);
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: linear-gradient(180deg, var(--bg-start), var(--bg-end));
+  color: var(--text-primary);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.6;
+}
+
+/* NAVIGATION BAR */
+.glass-nav {
+  backdrop-filter: blur(10px);
+  background: var(--section-bg);
+  border-bottom: 1px solid var(--section-border);
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
+
+.nav-left {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--brand);
+}
+
+.nav-right {
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-right a {
+  background: var(--brand);
+  color: #fff;
+  padding: 0.6rem 1.25rem;
+  border-radius: 999px; /* pill shape */
+  font-weight: 500;
+  box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);
+  transition: all 0.2s ease;
+}
+
+.nav-right a:hover {
+  background: var(--brand-hover);
+  transform: translateY(-2px);
+}
+
+/* HERO SECTION */
+.hero-section {
+  padding: 6rem 1rem;
+  text-align: center;
+}
+
+.hero-card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  border-radius: 1.25rem;
+  padding: 3rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* LOGIN & REGISTER FORMS */
+.auth-wrapper {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-card {
+  background: var(--section-bg);
+  border: 1px solid var(--section-border);
+  border-radius: 1rem;
+  padding: 2.5rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  width: 100%;
+  max-width: 420px;
+}
+
+.auth-card h3 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--brand);
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.auth-card .form-label {
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.auth-card .form-control {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--section-border);
+}
+
+.auth-card button {
+  width: 100%;
+  font-size: 1.1rem;
+  padding: 0.8rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}

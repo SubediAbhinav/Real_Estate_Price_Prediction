@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}Prediction Result{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    <h2 class="mb-4">Property Price Prediction</h2>
+
+    <div class="alert alert-success">
+        <h4 class="alert-heading">Predicted Price: <strong>Rs. {{ price }}</strong></h4>
+    </div>
+
+    <h5 class="mt-4">Property Details Entered:</h5>
+    <table class="table table-bordered mt-2">
+        <tbody>
+            {% for key, value in features.items() %}
+            <tr>
+                <th>{{ key.replace('_', ' ') }}</th>
+                <td>{{ value }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="mt-4">
+        <a href="{{ url_for('predict.step1') }}" class="btn btn-primary">Predict Another Property</a>
+    </div>
+</div>
+{% endblock %}

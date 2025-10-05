@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+
+{% block title %}Step 1 - Major Features{% endblock %}
+
+{% block content %}
+<div class="container py-5">
+    <h2 class="mb-4">Step 1: Enter Numerical Property Details</h2>
+    <form method="POST" action="{{ url_for('predict.step1') }}">
+        
+        <!-- Area -->
+        <div class="mb-3">
+            <label for="Area" class="form-label">Area (aana)</label>
+            <input type="number" id="Area" name="Area" class="form-control" 
+                   required min="2" max="200" step="1">
+            <div class="invalid-feedback">Area must be between 2 and 200 aana.</div>
+        </div>
+
+        <!-- Bathroom -->
+        <div class="mb-3">
+            <label for="Bathroom" class="form-label">Bathroom(s)</label>
+            <input type="number" id="Bathroom" name="Bathroom" class="form-control" 
+                   required min="1" max="12" step="1">
+            <div class="invalid-feedback">Bathrooms must be between 1 and 12.</div>
+        </div>
+
+        <!-- Bedroom -->
+        <div class="mb-3">
+            <label for="Bedroom" class="form-label">Bedroom(s)</label>
+            <input type="number" id="Bedroom" name="Bedroom" class="form-control" 
+                   required min="1" max="40" step="1">
+            <div class="invalid-feedback">Bedrooms must be between 1 and 40.</div>
+        </div>
+
+        <!-- Floors -->
+        <div class="mb-3">
+            <label for="Floors" class="form-label">Floors</label>
+            <input type="number" id="Floors" name="Floors" class="form-control" 
+                   required min="1" max="13" step="1">
+            <div class="invalid-feedback">Floors must be between 1 and 13.</div>
+        </div>
+
+        <!-- Road Width -->
+        <div class="mb-3">
+            <label for="Road_Width" class="form-label">Road Width (m)</label>
+            <input type="number" id="Road_Width" name="Road_Width" class="form-control" 
+                   required min="1" max="160" step="0.1">
+            <div class="invalid-feedback">Road width must be between 1 and 160 meters.</div>
+        </div>
+
+        <!-- Property Age -->
+        <div class="mb-3">
+            <label for="Property_Age" class="form-label">Property Age (years)</label>
+            <input type="number" id="Property_Age" name="Property_Age" class="form-control" 
+                   required min="0" max="80" step="1">
+            <div class="invalid-feedback">Property age must be between 0 and 80 years.</div>
+        </div>
+
+        <!-- Amenities Count -->
+        <div class="mb-3">
+            <label for="Amenities_Count" class="form-label">Amenities Count</label>
+            <input type="number" id="Amenities_Count" name="Amenities_Count" class="form-control" 
+                   required min="0" max="20" step="1">
+            <div class="invalid-feedback">Amenities count must be between 0 and 20.</div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Next to Step 2</button>
+    </form>
+</div>
+{% endblock %}

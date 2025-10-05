@@ -1,0 +1,1670 @@
+City,Price,Bedroom,Bathroom,Floors,Area,Road_Width,Road_Type,Neighborhood,Amenities_Count,Property_Age
+Kathmandu,90000000,6,3,2,16,20,Paved,budhanilkantha,16,9
+Kathmandu,80000000,5,3,2,21,20,Paved,budhanilkantha,15,9
+Kathmandu,70000000,5,3,2,17,20,Paved,dhapasi,16,11
+Kathmandu,130000000,6,4,3,10.25,20,Paved,baluwatar,16,65
+Kathmandu,100000000,6,3,2,19.5,20,Paved,golfutar,16,12
+Kathmandu,100000000,5,6,3,12.8125,13,Paved,banasthali,16,8
+Lalitpur,11000000,3,4,3,3.3125,11,Gravelled,lubhu,2,63
+Kathmandu,50000000,5,4,2,9.25,20,Paved,budhanilkantha,16,9
+Kathmandu,100000000,10,8,3.5,12.875,20,Paved,baluwatar,16,65
+Kathmandu,32500000,6,4,2.5,4,12,Paved,sukedhara,13,17
+Pokhara,32000000,4,5,3,14,15,Paved,lekhnath,2,7
+Kathmandu,39900000,5,4,3,4.5,14,Paved,chapali,3,7
+Kathmandu,15000000,2,2,1,5,12,Gravelled,budhanilkantha,1,8
+Kathmandu,52500000,5,5,3,8,20,Paved,budhanilkantha,9,7
+Kathmandu,26500000,6,6,3,4,13,Paved,budhanilkantha,1,6
+Kathmandu,25500000,6,6,3,4,13,Gravelled,sitapaila,1,6
+Kathmandu,33000000,6,4,2.5,6,20,Paved,narephate,12,26
+Kathmandu,18500000,4,4,3,6,13,Soil Stabilized,thankot,1,8
+Kathmandu,62000000,7,4,3,10,0,Soil Stabilized,kalanki,0,8
+Kathmandu,10500000,0,0,3,4,10,Soil Stabilized,kavresthali,0,8
+Bhaktapur,20500000,7,3,3,3.5,10,Gravelled,sipadol,13,6
+Bhaktapur,22000000,0,0,3,3.5,20,Paved,radhe radhe,0,8
+Kathmandu,145000000,95,40,5,21,20,Paved,balaju,2,9
+Kathmandu,55000000,5,6,3,19,20,Gravelled,budhanilkantha,2,11
+Kathmandu,24000000,4,4,2.5,4,13,Paved,sitapaila,9,7
+Kathmandu,37000000,6,6,3,6.1,32,Soil Stabilized,dhapasi,2,8
+Kathmandu,102500000,6,6,3,19,13,Paved,golfutar,13,12
+Lalitpur,22000000,7,4,3.5,4.5,13,Gravelled,imadol,13,6
+Kathmandu,58500000,6,6,3,6.5,16,Paved,pepsicola,2,6
+Lalitpur,18500000,4,3,2.5,3,13,Gravelled,imadol,7,6
+Lalitpur,21000000,4,3,2.5,3.5,13,Gravelled,imadol,10,6
+Lalitpur,17500000,5,3,3,3.125,13,Soil Stabilized,imadol,8,8
+Kathmandu,130000000,5,6,3,10,15,Paved,baluwatar,17,8
+Kathmandu,105000000,8,8,4,21,15,Paved,budhanilkantha,2,6
+Kathmandu,105000000,5,5,3,64,15,Gravelled,budhanilkantha,19,12
+Kathmandu,40000000,7,7,4,7,15,Paved,mandikatar,1,8
+Kathmandu,26500000,6,6,3,5,14,Paved,hattigauda,1,7
+Bhaktapur,15000,0,2,3.5,7.304601899,20,Paved,radhe radhe,8,6
+Kathmandu,22500000,6,6,3,3.1,18,Paved,budhanilkantha,1,12
+Kathmandu,60000000,6,6,3,11,15,Soil Stabilized,budhanilkantha,1,12
+Kathmandu,235000000,6,5,3,30,15,Soil Stabilized,baluwatar,8,8
+Kathmandu,40000000,9,6,4,9,13,Paved,tokha,1,13
+Kathmandu,30000000,6,5,3,3.5,15,Paved,sukedhara,9,6
+Kathmandu,65000000,6,6,3,12,14,Gravelled,maligaon,10,12
+Kathmandu,33000000,5,6,3,5,13,Paved,budhanilkantha,2,12
+Kathmandu,30500000,5,5,2,4,13,Paved,budhanilkantha,1,12
+Kathmandu,28000000,6,6,3,4,13,Paved,budhanilkantha,1,6
+Kathmandu,41000000,10,5,4,4,26,Paved,tokha,1,7
+Kathmandu,27000000,6,6,3,4.5,14,Gravelled,budhanilkantha,2,6
+Kathmandu,22000000,5,5,3,3.1,13,Soil Stabilized,tokha,1,6
+Kathmandu,37000000,5,5,3,8,15,Paved,budhanilkantha,7,11
+Kathmandu,46000000,4,3,2.5,6.75,13,Paved,height,15,8
+Kathmandu,22500000,5,3,3,4,13,Soil Stabilized,naikap,9,8
+Bhaktapur,29000000,3,3,2,4.5,20,Paved,balkot,17,12
+Kathmandu,31000000,3,4,3,3,19.68504,Paved,naya bazar,4,64
+Kathmandu,42500000,0,0,3,5.3125,29,Soil Stabilized,satungal,0,8
+Kathmandu,37500000,5,5,3,5,0,Soil Stabilized,budhanilkantha,10,8
+Kathmandu,105000000,4,3,3,64,20,Soil Stabilized,budhanilkantha,12,8
+Kathmandu,80000000,4,5,3,9.9375,13,Gravelled,baluwatar,15,6
+Lalitpur,25000000,3,4,2,4.5,13,Gravelled,nakhundol,7,6
+Bhaktapur,32500000,4,4,2,7,20,Paved,bhaktapur,13,65
+Kathmandu,21000000,5,3,3,5,12,Paved,jorpati,7,6
+Kathmandu,120000000,0,0,3,31,20,Soil Stabilized,raniban,0,8
+Chitwan,7700000,4,2,2,6,16,Gravelled,ratnanagar,6,65
+Kathmandu,20000000,7,3,2.5,4.3125,10,Gravelled,makalbari,12,15
+Bhaktapur,19000000,7,4,3.5,3,20,Gravelled,sipadol,11,6
+Kathmandu,33500000,0,4,3,4,18,Paved,budhanilkantha,19,8
+Kathmandu,37000000,0,0,3,5.125,13,Paved,mhepi,0,8
+Kathmandu,36000000,0,0,3,7.5,20,Soil Stabilized,pasikot,0,8
+Kathmandu,40000000,8,4,3,5,12,Paved,dhapasi,12,14
+Lalitpur,12500000,2,1,1,3,20,Gravelled,imadol,8,6
+Lalitpur,19500000,5,3,2.5,3.25,20,Gravelled,imadol,12,6
+Lalitpur,22000000,5,3,2.5,3.5,20,Gravelled,imadol,10,6
+Lalitpur,21500000,4,3,2.5,4,20,Gravelled,imadol,9,6
+Lalitpur,19500000,4,3,2.5,3.5,20,Gravelled,imadol,9,6
+Lalitpur,19000000,4,3,2.5,3,13,Gravelled,buddha party palace,8,6
+Lalitpur,18000000,4,3,2.5,3,13,Gravelled,buddha party palace,0,6
+Kathmandu,37000000,8,5,3,5.4375,12,Gravelled,swayambhu,4,5
+Kathmandu,34000000,6,3,3,4,12,Gravelled,swayambhu,5,5
+Kathmandu,26000000,8,4,3,4.125,16,Gravelled,manamaiju,11,7
+Kathmandu,22000000,5,3,3,6.5,10,Soil Stabilized,syuchatar,4,8
+Kathmandu,23000000,7,3,3,4,10,Soil Stabilized,kavresthali,1,8
+Kathmandu,15500000,5,2,3,3.625,13,Soil Stabilized,goldhunga,1,8
+Kathmandu,57500000,0,0,3,6.25,12,Paved,maharajgunj,0,8
+Kathmandu,90000000,5,5,3,10,20,Soil Stabilized,baluwatar,7,8
+Kathmandu,17000000,4,3,2.5,4,10,Paved,kalanki,11,6
+Lalitpur,12500000,2,1,1.5,3.25,13,Gravelled,imadol,6,6
+Bhaktapur,2100000,0,0,3,5,20,Gravelled,sirutar,2,8
+Kathmandu,45000000,4,4,3,11,22,Soil Stabilized,budhanilkantha,13,8
+Lalitpur,12500000,2,1,1.5,3,13,Gravelled,tikathali,3,6
+Lalitpur,19000000,4,3,2.5,3.5,13,Gravelled,imadol,9,6
+Kathmandu,32000000,0,0,3,10,20,Soil Stabilized,pasikot,0,8
+Kathmandu,15500000,2,1,1.5,4,20,Gravelled,planning,0,6
+Kathmandu,3000000,0,0,3,12,16,Paved,budhanilkantha,0,8
+Kathmandu,2350000,0,0,3,5,13,Paved,thankot,0,8
+Kathmandu,4100000,0,0,3,4,13,Soil Stabilized,golfutar,0,8
+Kathmandu,200000,0,0,3,10,20,Soil Stabilized,ring road,0,8
+Kathmandu,3500000,0,0,3,6.1,12,Paved,gaurighat,0,8
+Kathmandu,30000,2,1,3,4,11,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,1500000,0,0,3,7,58,Paved,jhor,0,8
+Kathmandu,1100000,0,0,3,4,10,Soil Stabilized,kavresthali,0,8
+Kathmandu,8500000,0,0,3,5.5,13,Soil Stabilized,chabahil,0,8
+Kathmandu,2850000,0,0,3,4,10,Soil Stabilized,kavresthali,0,8
+Kathmandu,1450000,0,0,3,5,20,Soil Stabilized,dharmasthali,0,8
+Kathmandu,3500000,0,0,3,10,30,Paved,budhanilkantha,0,8
+Kathmandu,1000000,0,0,3,3,26,Soil Stabilized,dillibazar,1,8
+Kathmandu,4200000,0,0,3,8,15,Soil Stabilized,golfutar,0,8
+Kathmandu,20000,2,1,3,5.5,18,Soil Stabilized,milantol,4,8
+Bhaktapur,2100000,0,0,3,6,0,Soil Stabilized,bhaktapur,0,8
+Kathmandu,32000,2,2,5,2.92184076,10,Soil Stabilized,near bhat bhateni,0,8
+Lalitpur,3500000,0,0,3,4.5,22.96588,Gravelled,imadol,0,8
+Kathmandu,75000,7,7,3,9,13,Paved,hattigauda,1,12
+Kathmandu,30000,1,1,3,10,0,Soil Stabilized,lazimpat,4,8
+Kathmandu,2450000,0,0,3,5,16,Soil Stabilized,kathmandu,0,8
+Kathmandu,2500000,0,0,3,9,15,Paved,hattigauda,0,8
+Lalitpur,35000,0,0,5,9,72,Paved,mahalaxmi nagarpalika,10,69
+Kathmandu,5700000,0,0,3,4,15,Paved,ranibari,0,8
+Kathmandu,3000000,0,0,3,5,13,Soil Stabilized,golfutar,0,8
+Kathmandu,60000,0,2,4.5,2.483564646,65.6168,Paved,link road,3,6
+Kathmandu,5500000,0,0,3,12,0,Soil Stabilized,lazimpat,0,8
+Kathmandu,7000000,0,0,3,7,29.52756,Paved,anamnagar,0,8
+Lalitpur,25000,2,2,3,3.170197224,13,Paved,imadol,10,6
+Bhaktapur,550000,0,0,3,10.75,10,Gravelled,chitapol,0,8
+Lalitpur,115000,0,0,3,4.090577064,0,Soil Stabilized,sanepa,0,8
+Lalitpur,35000000,0,0,3,4.090577064,20,Soil Stabilized,sanepa,0,8
+Kathmandu,3000000,0,0,3,5,0,Soil Stabilized,bhangal,0,8
+Kathmandu,23000000,3,3,3,4.625273923,20,Soil Stabilized,panipokhari,14,8
+Kathmandu,80000,3,2,4,4.42366691,0,Paved,tokha,17,8
+Lalitpur,35000,2,2,3,6,10,Soil Stabilized,jhamsikhel,5,8
+Kathmandu,290000,0,1,1,2.629656684,12,Paved,height,5,8
+Kathmandu,150000,3,4,3,5,0,Soil Stabilized,basbari,9,8
+Kathmandu,11000000,0,0,3,9.75,32,Soil Stabilized,sano gaucharan,0,8
+Kathmandu,11000000,0,0,3,10,40,Soil Stabilized,naya bazar,0,8
+Chitwan,20000,0,0,3,12,19.68504,Paved,bharatpur,0,8
+Lalitpur,3500000,0,0,3,4,19.68504,Soil Stabilized,hattiban,0,8
+Lalitpur,16500000,3,2,5,3.506208912,40,Paved,bhaisepati,14,24
+Lalitpur,60000,4,3,3,4,0,Soil Stabilized,hattiban,5,8
+Bhaktapur,70000,4,3,3,4,0,Soil Stabilized,sallaghari,6,8
+Lalitpur,120000,5,4,3,10,0,Soil Stabilized,kumaripati,0,8
+Kathmandu,2400000,0,0,3,4,16,Paved,nasal chowk,0,8
+Bhaktapur,2200000,0,0,3,5,13,Soil Stabilized,bhaktapur,0,8
+Lalitpur,3000000,0,0,3,7.75,13,Paved,imadol,4,8
+Kathmandu,70000,0,0,4,6,25,Paved,dhapasi,8,6
+Kathmandu,7000000,0,0,3,2.5,26,Soil Stabilized,naya bazar,0,8
+Kathmandu,2500000,0,0,3,11.5,14,Soil Stabilized,ramkot,0,8
+Kathmandu,6000000,0,0,3,8,32,Soil Stabilized,swayambhu,0,8
+Kathmandu,24500000,0,3,2,3,16,Gravelled,samakhusi,18,8
+Kathmandu,2500000,0,0,3,11.5,14,Soil Stabilized,nagarjun,0,8
+Kathmandu,17000000,5,3,3,3,14,Soil Stabilized,manamaiju,9,8
+Pokhara,15000,2,1,3,8.5,13,Paved,sunaulo marg,1,8
+Kathmandu,2850000,0,0,3,5.25,12,Soil Stabilized,raniban,0,8
+Kathmandu,15000000,0,0,3,13.625,20,Paved,hattisar,0,8
+Kathmandu,40000,4,3,3,4.38276114,22,Gravelled,sitapaila,8,62
+Kathmandu,200000,6,4,3,10,0,Soil Stabilized,basbari,0,8
+Kathmandu,1150000,0,0,3,7.25,11,Gravelled,swayambhu,0,8
+Kathmandu,40000,3,2,3,10,0,Soil Stabilized,soltimode,0,8
+Kathmandu,4200000,0,0,3,13,36.08924,Paved,sitapaila,0,8
+Lalitpur,3500000,0,0,3,4.38276114,0,Soil Stabilized,patan,0,8
+Kathmandu,28500000,6,6,3,5.5,20,Soil Stabilized,pasikot,0,8
+Lalitpur,21500000,0,0,3,3.5,13,Gravelled,tikathali,1,8
+Kathmandu,20000,2,1,3,3.5,0,Soil Stabilized,pragati tol,0,8
+Kathmandu,3000000,0,0,3,4,13,Soil Stabilized,kapan,0,8
+Lalitpur,12500000,3,1,2,5,16,Paved,godawari,4,8
+Kathmandu,32500000,11,0,3,4.5,20,Paved,bafal,0,8
+Lalitpur,22000000,5,3,2.5,4,10,Gravelled,panii tyanki,6,6
+Kathmandu,17000000,0,2,3,3.1,20,Paved,tarkeshwor,1,65
+Bhaktapur,3000000,0,0,3,4.25,13,Paved,sallaghari,2,8
+Lalitpur,11000000,2,1,1.5,2.75,13,Gravelled,tikathali,4,6
+Lalitpur,900000,0,0,3,5,10,Soil Stabilized,lubhu,0,8
+Kathmandu,15000000,0,0,3,8,45,Paved,maitidevi,0,8
+Lalitpur,13000000,4,2,1.5,3,13,Gravelled,imadol,4,6
+Kathmandu,42500000,28,0,5,5.3125,29,Soil Stabilized,kathmandu,5,8
+Kathmandu,1300000,0,0,3,14,20,Paved,gokarneshwor,0,8
+Lalitpur,300000,8,5,3,12,0,Soil Stabilized,pulchowk,2,8
+Kathmandu,10500000,0,0,3,7.25,0,Soil Stabilized,balkhu,0,8
+Kathmandu,50000000,3,3,3,80,20,Paved,hattisar,1,12
+Chitwan,10500000,4,2,3,4,13,Paved,bharatpur,3,73
+Kathmandu,30000000,6,5,3,5,14,Gravelled,saraswoti 3,6,63
+Lalitpur,31500000,4,4,3,4.3,12,Paved,bhaisepati,7,70
+Lalitpur,18000000,3,3,3,3.1875,18,Soil Stabilized,harisiddhi,8,8
+Kathmandu,57500000,4,5,3,8,20,Paved,budhanilkantha,11,6
+Kathmandu,30000000,0,3,3,2,25,Paved,chabahil main road.,13,8
+Lalitpur,100000,3,3,3,11,20,Paved,satdobato,9,81
+Kathmandu,15500000,0,0,3,4,18,Paved,chabahil,0,8
+Kathmandu,7500000,0,0,3,9.5,20,Paved,1 kitta inside from main road.,0,8
+Kathmandu,60000000,0,0,2,9.5,15,Paved,chabahil beside raprapa party office.,18,8
+Kathmandu,1200000,0,0,3,4.75,20,Paved,matatirtha,0,8
+Kathmandu,2700000,0,0,3,5,12,Paved,kadaghari,2,8
+Kathmandu,35000000,7,3,2.5,3.625,12,Paved,sankhamul,11,6
+Kathmandu,3600000,0,0,3,9,16,Paved,kalanki,5,8
+Kathmandu,25000000,6,4,4,2.5,20,Paved,charumati bihar,7,82
+Kathmandu,15500000,0,0,2,3.5,13,Paved,gothatar,4,67
+Kathmandu,9500000,0,0,3,13,40,Paved,inside ring road track.,0,8
+Kathmandu,75000000,0,0,5,9,12,Paved,100 meters from main road,18,8
+Kathmandu,3500000,0,0,3,13,25,Paved,dhobikhola corridor,0,8
+Kathmandu,75000000,0,0,3,10,16,Gravelled,100 meter from ring road,24,8
+Kathmandu,4500000,0,0,3,8,16,Paved,chabahil,0,8
+Kathmandu,3700000,0,0,3,9,16,Gravelled,budhanilkantha,0,8
+Kathmandu,39500000,0,0,4,6,18,Paved,ratopul,20,8
+Pokhara,70000,0,2,3,4.674945215,0,Soil Stabilized,mahendrapul,0,8
+Kathmandu,5000000,0,0,3,10,16,Gravelled,basbari,0,8
+Kathmandu,37000000,5,6,3,4,20,Paved,golfutar,6,6
+Pokhara,40000,0,0,3,2.337472608,0,Soil Stabilized,mahendrapul,0,8
+Lalitpur,25600000,0,0,4,4,10,Gravelled,dhapakhel,9,69
+Lalitpur,78000,4,4,3,5,0,Soil Stabilized,jawalakhel,10,8
+Kathmandu,36500000,5,4,2,6.25,20,Paved,budhanilkantha.,30,62
+Kathmandu,102500000,5,0,2,19,20,Paved,80 meter from highway,30,8
+Kathmandu,22500000,5,3,3,3.25,14,Paved,sanobharyang,25,62
+Kathmandu,23500000,5,3,3,3,15,Paved,sano bharyang,25,62
+Kathmandu,22500000,4,3,3,3.1875,15,Gravelled,budhanilkantha,24,6
+Kathmandu,32500000,5,4,3,4,15,Gravelled,budhanilkantha,26,62
+Kathmandu,42500000,5,0,3,12,15,Paved,budhanilkantha,24,8
+Kathmandu,11000000,10,3,2,4,3,Soil Stabilized,thankot,2,10
+Kathmandu,42500000,5,3,2,5,12,Paved,sukedhara,26,8
+Kathmandu,35000000,5,4,2,6,18,Gravelled,budhanilkantha,26,62
+Kathmandu,2200000,0,0,3,5,20,Paved,tokha,0,8
+Kathmandu,2400000,0,0,3,5,16,Paved,chapali,0,8
+Kathmandu,2400000,0,0,3,5,12,Gravelled,budhanilkantha,0,8
+Kathmandu,6000000,0,0,3,5,13,Gravelled,maijubahal,0,8
+Kathmandu,2700000,0,0,3,13,13,Paved,golfutar,0,8
+Kathmandu,2300000,0,0,3,6,20,Paved,tokha,0,8
+Kathmandu,37000000,5,5,3,4,20,Paved,golfutar,7,6
+Kathmandu,45000000,6,6,3,6,20,Paved,sukedhara,6,6
+Lalitpur,39000000,2,1,1,11,0,Soil Stabilized,baghdol,9,8
+Kathmandu,17000000,5,3,3,3.75,12,Paved,manmaiju,5,8
+Kathmandu,100000,5,4,3,11,0,Soil Stabilized,maharajgunj,5,8
+Lalitpur,75000,3,3,3,5.5,0,Soil Stabilized,bhaisepati,5,8
+Kathmandu,16500000,6,3,2.5,3,10,Gravelled,goldhunga,7,6
+Kathmandu,20500000,4,4,2.5,3.75,13,Paved,sitapaila,11,6
+Lalitpur,25000000,7,6,3,4.75,13,Paved,imadol,10,62
+Bhaktapur,12500000,0,0,2,3,16,Soil Stabilized,gatthaghar,1,8
+Lalitpur,21000000,4,5,1,4,20,Gravelled,imadol,0,63
+Kathmandu,60000,0,4,3,2.629656684,98.4252,Paved,koteshwor,2,67
+Bhaktapur,3500000,0,0,3,12.5,1640.42,Soil Stabilized,changunarayan,0,8
+Kathmandu,2500000,0,0,3,4,12,Gravelled,budhanilkantha,2,8
+Kathmandu,18000000,6,3,3,5,13,Paved,kapan,14,12
+Lalitpur,35200000,4,4,3,5.5,20,Paved,bhaisepati,7,62
+Kathmandu,35000,3,2,3,10,0,Soil Stabilized,swayambhu,4,8
+Lalitpur,37100000,4,4,3,6,20,Paved,bhaisepati,5,62
+Kathmandu,55000000,4,5,3,5,14,Paved,gairidhara,7,8
+Lalitpur,34500000,4,4,3,5.25,20,Paved,bhaisepati,7,62
+Kathmandu,45000000,5,6,3,6,13,Paved,budhanilkantha,10,7
+Kathmandu,22500000,6,5,3,3.1,14,Gravelled,sanobharyang,5,6
+Lalitpur,30000,3,2,4,8,10,Paved,imadol,8,64
+Lalitpur,700000,0,0,3,4.375,0,Paved,lele,0,8
+Kathmandu,23500000,6,5,3,3,13,Paved,swayambhu,1,6
+Kathmandu,102500000,6,6,3,19,13,Paved,golfutar,15,6
+Lalitpur,28200000,4,4,2,4.25,40,Paved,bhaisepati,8,62
+Kathmandu,13000000,2,1,1,3.5,10,Gravelled,kadaghari,3,68
+Kathmandu,32500000,5,5,3,4,13,Paved,budhanilkantha,1,6
+Kathmandu,26000000,11,9,3,5,13,Paved,satungal,12,8
+Kathmandu,24000000,7,8,4,5,13,Gravelled,chapali,1,17
+Lalitpur,17700000,3,4,2.5,2.5,12,Paved,dhapakhel,13,8
+Kathmandu,2200000,1,1,1,12.5,10,Gravelled,hariyali samaaj,3,66
+Kathmandu,16800000,5,5,3,3,14,Gravelled,pasikot,1,8
+Kathmandu,34000000,6,6,3,5.5,30,Paved,budhanilkantha,2,6
+Kathmandu,200000,5,4,3,3.625,14,Paved,budhanilkantha,12,68
+Kathmandu,42500000,5,6,3,12,14,Gravelled,chapali,10,11
+Kathmandu,41000000,7,3,2.5,5,10,Paved,baluwatar,13,16
+Kathmandu,1300000,0,0,3,7.2,0,Soil Stabilized,alubari,0,8
+Kathmandu,15000000,3,3,3,8.2,4,Soil Stabilized,matatirtha,1,8
+Lalitpur,37500000,8,6,4,7.25,12,Paved,sainbu,17,75
+Kathmandu,16000000,5,3,2.5,3,13,Paved,tinthana,14,6
+Lalitpur,55000,2,1,3,5,0,Soil Stabilized,jawalakhel,0,8
+Kathmandu,500000,22,4,3,10,0,Soil Stabilized,naxal,0,8
+Kathmandu,15000000,4,4,3,3.2,0,Soil Stabilized,kapan,1,68
+Lalitpur,21500000,6,4,2.5,4,20,Paved,tikathali,13,6
+Kathmandu,60000000,5,5,2.5,6,13,Paved,baluwatar,13,8
+Kathmandu,4200000,0,0,3,6.75,13,Paved,gaurighat,3,8
+Kathmandu,4200000,0,0,3,9,13,Gravelled,gaurighat,3,8
+Kathmandu,4500000,0,0,3,5.4375,20,Paved,gaurighat,3,8
+Kathmandu,4200000,0,0,3,9,13,Paved,gaurighat,1,8
+Kathmandu,6000000,0,0,3,3.5625,26,Paved,gaurighat,1,8
+Kathmandu,750000,0,0,3,4,0,Soil Stabilized,samakhusi,0,8
+Lalitpur,30000000,4,4,3,3,0,Soil Stabilized,bhaisepati,6,8
+Kathmandu,81000000,6,6,3,21,15,Gravelled,pasikot,15,10
+Kathmandu,55000000,5,5,2,12,22,Paved,pasikot,10,13
+Kathmandu,13000000,6,2,3,3,23,Paved,thankot,5,81
+Kathmandu,30000000,4,3,3,3,0,Soil Stabilized,bafal,0,8
+Kathmandu,225000,0,3,2,7,16,Paved,soltimode,6,62
+Kathmandu,17500000,5,4,3,3.25,15,Soil Stabilized,nagarjun,16,8
+Kathmandu,1450000,0,0,3,4.5,13,Soil Stabilized,chandragiri,0,8
+Kathmandu,65000000,6,5,2,12,12,Paved,naxal,16,8
+Kathmandu,9500000,3,1,3,3,13,Gravelled,chandragiri,0,6
+Kathmandu,9000000,6,3,3,6.375,10,Paved,thapathali,10,18
+Kathmandu,2900000,0,0,3,14,20,Gravelled,hattigauda,0,8
+Kathmandu,80000000,16,10,4,9,8,Paved,panchashil galli,14,72
+Lalitpur,20000000,3,3,3,3,0,Soil Stabilized,imadol,1,8
+Pokhara,15000,0,0,3,5,12,Paved,pratibha marga,2,9
+Kathmandu,31000000,7,3,3,4,10,Paved,bafal,12,68
+Kathmandu,495000,0,0,3,3.214024836,0,Soil Stabilized,baneshwor,3,8
+Kathmandu,200000,5,4,3,12,0,Soil Stabilized,budhanilkantha,12,8
+Kathmandu,15000,2,1,3,3.506208912,12,Paved,sungava tole gate 5,0,65
+Lalitpur,19500000,5,3,3,3,20,Soil Stabilized,imadol,11,8
+Kathmandu,60000,3,4,2,7,0,Soil Stabilized,chovar,6,63
+Kathmandu,65000000,5,4,2,8,20,Paved,kunwar colony,25,6
+Kathmandu,150000000,6,6,2,20,18,Paved,budhanilkantha,20,8
+Kathmandu,3500000,0,0,3,10,16,Paved,budhanilkantha,0,8
+Kathmandu,235000000,5,7,2,96,18,Paved,budhanilkantha,29,8
+Kathmandu,3500000,0,0,3,8,15,Paved,budhanilkantha,0,8
+Kathmandu,37000000,6,6,3,6,16,Paved,400 meters from main highway,24,7
+Kathmandu,19000000,4,3,2,3,15,Paved,bhangal,16,6
+Kathmandu,105000000,6,5,3,12,16,Paved,beside subisu office,23,8
+Kathmandu,4500000,0,0,3,10,25,Paved,budhanilkantha.,0,8
+Kathmandu,3400000,0,0,3,6,16,Paved,150 mtr from highway,0,8
+Lalitpur,280000,5,5,3,2.75,0,Soil Stabilized,bakhundol,3,63
+Kathmandu,65000000,5,6,3,8,22,Paved,dhapasi,10,6
+Lalitpur,25000,2,2,1,2.92184076,0,Soil Stabilized,kusunti,7,8
+Lalitpur,19500000,5,3,2.5,3.25,20,Paved,imadol,12,6
+Kathmandu,24000000,8,5,3,4,14,Paved,aadeswor,6,63
+Kathmandu,200000,4,4,3,5,0,Soil Stabilized,budhanilkantha,6,8
+Kathmandu,95000,4,2,2,6.5,12,Gravelled,bhangal,11,63
+Bhaktapur,35000000,3,4,3,4.75,30,Paved,madhyapur thimi,4,10
+Kathmandu,250000,17,19,3,6,0,Soil Stabilized,khusibu,4,8
+Lalitpur,60000,4,3,3,3,0,Soil Stabilized,dhapakhel,13,8
+Lalitpur,20000000,5,2,4,5,15,Gravelled,tikathali,4,6
+Lalitpur,23500000,6,4,3,4,13,Gravelled,imadol,13,10
+Kathmandu,24000000,4,4,2,3.9375,18,Paved,narayantar,7,72
+Lalitpur,80000,4,3,3,5.355734112,0,Soil Stabilized,sanepa,7,8
+Kathmandu,16000,2,1,3,6,7,Gravelled,thankot,6,73
+Lalitpur,40000000,4,4,3,9.375,492.126,Paved,tikathali,12,76
+Kathmandu,3000000,0,0,3,12.02,21,Soil Stabilized,paiyutar,0,8
+Lalitpur,25000,2,2,3,14,0,Soil Stabilized,bhaisepati,0,8
+Bhaktapur,39999999,4,3,3,5.125,28,Paved,balkot,28,11
+Lalitpur,60000,2,2,3,5,0,Soil Stabilized,bhaisepati,6,8
+Kathmandu,65000,3,3,3,6,0,Soil Stabilized,sitapaila,7,8
+Kathmandu,43500000,7,3,3,7.75,13,Paved,shantinagar,10,8
+Lalitpur,15000,1,1,3,3,0,Soil Stabilized,dhobighat,0,8
+Lalitpur,25000,4,2,3,3,0,Soil Stabilized,sanepa,0,8
+Lalitpur,20000,1,1,3,3,0,Soil Stabilized,dhobighat,0,8
+Lalitpur,100000,4,4,3,4,0,Soil Stabilized,karyabinayak,5,8
+Jhapa,430000,0,0,3,14.37545654,32,Paved,damak,0,8
+Kathmandu,3500000,0,0,3,10,15,Paved,budhanilkantha,0,8
+Kathmandu,20000,2,1,3,6,10,Gravelled,basundhara,5,70
+Lalitpur,2700000,0,0,3,8,14,Gravelled,imadol,0,8
+Lalitpur,150000,4,4,3,4.5,0,Soil Stabilized,bhaisepati,8,8
+Kathmandu,15000,0,0,3,6.428049671,0,Soil Stabilized,baneshwor,1,8
+Lalitpur,60000,2,2,3,5,0,Soil Stabilized,civil homes,7,8
+Kathmandu,45000000,0,4,3,6,20,Paved,30 meter from highway,20,8
+Kathmandu,85000000,5,6,3,13,20,Paved,samakhusi,1,13
+Kathmandu,160000000,6,6,3,21,20,Paved,budhanilkantha,1,6
+Kathmandu,61000000,12,8,4,11,13,Paved,samakhusi,4,13
+Kathmandu,45000000,6,6,3,6,15,Paved,golfutar,6,7
+Kathmandu,49500000,5,5,3,4.5,14,Paved,chabahil,1,9
+Kathmandu,24000000,6,6,3,3.5,15,Paved,baniyatar,1,6
+Kathmandu,22500000,5,5,3,2.5,14,Paved,basundhara,1,7
+Kathmandu,69000000,5,5,3,12,22,Paved,700 meter out from ring road.,24,8
+Kathmandu,68000000,0,0,3,8,30,Paved,sitapaila,0,8
+Kathmandu,62000000,5,6,3,17,14,Gravelled,budhanilkantha,9,7
+Kathmandu,69000000,7,7,3,12,20,Paved,dhapasi,9,8
+Kathmandu,45000000,6,7,3,6,15,Paved,golfutar,7,7
+Kathmandu,65000000,6,5,2,12,16,Paved,400 meter from bhatbhateni.,24,8
+Kathmandu,42000000,8,7,4,6,20,Paved,sukedhara,9,8
+Lalitpur,13000000,2,1,1.35,3.5,10,Gravelled,imadol,0,6
+Lalitpur,12700000,2,1,1.5,3.1875,10,Gravelled,imadol,8,6
+Lalitpur,11000000,2,1,1.5,2.5,16,Gravelled,imadol,0,6
+Lalitpur,12000000,2,1,1.5,3,13,Gravelled,imadol,8,6
+Lalitpur,65000,4,3,3,6,0,Soil Stabilized,civil homes,0,8
+Lalitpur,12500000,2,1,1.5,3.8125,13,Gravelled,tikathali,11,6
+Kathmandu,19000000,8,4,3,3.5,10,Gravelled,sagarmatha chwok,10,9
+Lalitpur,11500000,2,1,1.5,2.875,13,Gravelled,buddha party palace,5,6
+Chitwan,80000,6,3,3,7.888970051,26,Paved,bharatpur,5,63
+Lalitpur,60000,3,2,3,3.447772096,24,Paved,dhapakhel,2,67
+Lalitpur,15000000,2,1,1.5,4.125,16,Paved,tikathali,7,6
+Lalitpur,11000000,2,1,1.5,3,13,Gravelled,tikathali,5,6
+Bhaktapur,1500000,0,0,3,6,12,Soil Stabilized,changunarayan,0,8
+Lalitpur,50000,4,4,3,4,12,Paved,bhaisepati,3,63
+Lalitpur,400000,0,5,5,9,3.28084,Gravelled,lalitpur,5,81
+Kathmandu,4500000,0,0,3,4,16,Paved,golfutar,0,8
+Kathmandu,4600000,0,0,3,5.25,13,Paved,golfutar,0,8
+Kathmandu,23000000,5,5,3,4,13,Gravelled,bhangal,1,9
+Kathmandu,60000000,5,6,4,5.5,13,Paved,baluwatar,1,6
+Kathmandu,25500000,7,4,3,4,14,Paved,basundhara,17,8
+Kathmandu,55000000,5,4,2,7,14,Paved,samakhusi,22,8
+Lalitpur,22200000,4,5,3,3.25,0,Soil Stabilized,nakhipot,0,63
+Kathmandu,55000000,5,6,3,7,14,Paved,samakhusi,1,9
+Kathmandu,25500000,7,6,4,3.75,14,Paved,basundhara,1,7
+Kathmandu,2700000,0,0,3,5,15,Gravelled,near krishna mandir,0,8
+Kathmandu,27500000,6,3,2,4,15,Paved,mandikatar,17,6
+Kathmandu,63000000,5,4,2,10,16,Paved,50 meters from main highway.,23,8
+Kathmandu,3500000,0,0,3,10,14,Paved,budhanilkantha,0,8
+Kathmandu,34500000,6,4,3,6,30,Paved,rudreshwor,17,6
+Kathmandu,38000000,0,3,2,9,16,Paved,taulung.,14,6
+Lalitpur,12000000,4,1,1.5,5.25,4,Paved,imadol,5,8
+Lalitpur,12500000,2,1,1,3,13,Soil Stabilized,tikathali,0,63
+Lalitpur,130000,2,1,1,3,15,Soil Stabilized,tikathali,3,63
+Kathmandu,60000,0,0,3,5,13,Paved,samakhusi,0,8
+Lalitpur,23500000,4,4,3,3.75,13,Paved,imadol,13,66
+Kathmandu,60000,4,3,3,10,20,Paved,dhapasi,3,72
+Lalitpur,27000000,6,4,3,3.5,13,Paved,imadol,5,8
+Kathmandu,15200000,4,2,3,3.915266618,20,Paved,pepsicola,14,8
+Kathmandu,2650000,0,0,3,3.3,20,Gravelled,chapali,0,8
+Kathmandu,235000000,5,5,3,3,13,Gravelled,sano bharyang,1,6
+Kathmandu,27600000,7,6,3,4,13,Gravelled,mandikatar,3,6
+Kathmandu,70000000,5,4,3,22,16,Paved,budhanilkantha,24,8
+Kathmandu,22500000,4,3,2,3,15,Paved,banasthali,11,6
+Kathmandu,23500000,0,3,2,3,16,Paved,swayambhu,17,6
+Kathmandu,15000,5,5,3,3,14,Gravelled,dhungedhara,1,6
+Kathmandu,70000000,6,7,3,22,15,Paved,budhanilkantha,2,14
+Kathmandu,235000000,5,5,3,4.5,15,Paved,chabahil,2,7
+Kathmandu,160000000,10,10,4,21,20,Paved,budhanilkantha,1,6
+Kathmandu,42500000,6,6,3,6,15,Paved,baluwatar,2,8
+Kathmandu,18000000,5,5,3,3.1,13,Gravelled,budhanilkantha,1,6
+Kathmandu,27500000,6,6,3,4,14,Gravelled,bhangal,1,6
+Kathmandu,33000000,5,3,2.5,5,15,Paved,shantinagar,14,8
+Kathmandu,145000000,5,6,3,20,18,Paved,budhanilkantha,8,6
+Lalitpur,21000000,4,5,2.5,4,20,Gravelled,imadol,11,6
+Lalitpur,28500000,5,4,3,4.8125,13,Paved,bhaisepati,15,9
+Kathmandu,17500000,4,2,3,5,20,Soil Stabilized,ramkot,0,8
+Kathmandu,15500000,4,2,2,4,0,Soil Stabilized,ramkot,0,8
+Kathmandu,15500000,4,2,3,4,20,Soil Stabilized,ramkot,0,8
+Kathmandu,3200000,0,0,3,10,13,Paved,budhanilkantha,0,8
+Kathmandu,3000000,0,0,3,3,20,Paved,basbari,0,8
+Kathmandu,2300000,0,0,3,5.5,13,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,2000000,0,0,3,4.090577064,20,Paved,chabahil,11,8
+Kathmandu,42000000,7,6,3,8.5,13,Gravelled,chapali,7,6
+Kathmandu,300000,18,4,5,4,18,Paved,paknajol,4,37
+Kathmandu,4000000,0,0,3,5,13,Paved,pepsicola,0,8
+Lalitpur,30000,2,1,3,2.3082542,36.08924,Paved,dhapakhel,11,8
+Lalitpur,19000000,4,3,3,3.25,0,Paved,imadol,0,6
+Lalitpur,21000000,3,2,2.5,3.0625,13,Paved,gwarko,17,8
+Lalitpur,50000,3,2,9,3.678597516,20,Paved,balkumari,20,8
+Kathmandu,200000,0,0,3,10,20,Paved,naxal,0,8
+Kathmandu,15000,0,0,3,10,16,Paved,naxal,4,8
+Kathmandu,100000,3,4,2,4,15,Paved,budhanilkantha,6,8
+Kathmandu,350000,0,0,5,8,15,Paved,ratopul,3,8
+Kathmandu,3000000,0,0,3,4.25,15,Soil Stabilized,soltimode,0,8
+Kathmandu,200000,4,3,3,8,15,Paved,sinamangal,4,8
+Kathmandu,3000000,0,0,3,5.2,15,Paved,boudha,0,8
+Kathmandu,150000,0,0,5,3,0,Soil Stabilized,boudha,4,8
+Kathmandu,120000,12,0,3,3,15,Paved,thamel,4,8
+Kathmandu,130000,12,0,3,6,16,Paved,maharajgunj,2,8
+Kathmandu,150000,8,3,3,4,16,Soil Stabilized,lazimpat,4,8
+Kathmandu,2500000,0,0,3,4,15,Gravelled,budhanilkantha,0,8
+Kathmandu,150000,4,4,3,6,16,Soil Stabilized,basbari,5,8
+Kathmandu,85000000,7,8,3,14,14,Paved,basundhara,15,15
+Kathmandu,13000000,0,0,3,10,13,Gravelled,ramkot,0,8
+Kathmandu,1050000,0,0,3,4,13,Gravelled,dahachowk,0,8
+Kathmandu,80000,13,0,4,4,13,Soil Stabilized,gongabu,0,8
+Kathmandu,370000,17,17,4,6,20,Paved,khusibu,2,6
+Kathmandu,2600000,0,0,3,4,22,Paved,budhanilkantha,0,8
+Kathmandu,150000,4,4,3,7,13,Soil Stabilized,lazimpat,9,8
+Kathmandu,17000000,8,3,10,3.5,10,Soil Stabilized,kapan,0,8
+Kathmandu,18500000,3,3,2.5,3,14,Gravelled,gothatar,13,7
+Kathmandu,3200000,0,0,3,7,13,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,17000000,4,5,3,3,16,Gravelled,kapan,1,6
+Kathmandu,32500000,8,6,3,4,20,Paved,mandikatar,4,6
+Kathmandu,29800000,5,5,3,4,15,Paved,budhanilkantha,8,6
+Kathmandu,29900000,7,6,3,5,20,Paved,budhanilkantha,10,63
+Kathmandu,49000000,6,6,3,5.3,14,Paved,basundhara,0,8
+Kathmandu,29900000,5,3,2.5,3,10,Paved,buddhanagar,13,6
+Kathmandu,21000000,6,6,3,3,13,Paved,tokha,1,8
+Kathmandu,100000000,6,6,3,19,13,Paved,golfutar,17,13
+Kathmandu,33500000,6,6,3,4,14,Paved,tokha,4,6
+Kathmandu,28500000,5,5,3,4,15,Gravelled,hattigauda,5,6
+Kathmandu,50000000,5,5,3,11,16,Paved,basundhara,4,11
+Kathmandu,35000000,5,5,3,5,20,Paved,naya bazar,6,13
+Kathmandu,49000000,5,5,3,8.5,13,Gravelled,budhanilkantha,15,6
+Kathmandu,39000000,5,5,3,7,15,Paved,thulo bharyang,10,12
+Kathmandu,29000000,6,6,3,4,13,Paved,tokha,6,8
+Kathmandu,44500000,5,5,3,5,16,Paved,budhanilkantha,7,6
+Kathmandu,5500000,0,0,3,5,15,Paved,maharajgunj,0,8
+Kathmandu,3700000,0,0,3,8,16,Paved,golfutar,0,8
+Kathmandu,29800000,5,5,3,4.1,16,Paved,basundhara,7,8
+Kathmandu,2000000,0,0,3,3.4375,12,Gravelled,kalanki,0,8
+Lalitpur,45000000,3,2,13,5.259313367,20,Paved,sanepa,28,67
+Lalitpur,15000,2,1,3,2.045288532,14,Gravelled,imadol,4,7
+Kathmandu,38700000,6,5,3,4,15,Paved,bhimsengola,14,6
+Kathmandu,39000000,6,5,3,4,13,Paved,old baneshwor,0,63
+Lalitpur,1200000,0,0,3,3.3,20,Soil Stabilized,dhapakhel,0,8
+Kathmandu,15000000,4,2,1.5,4.75,18,Paved,syuchatar,16,10
+Kathmandu,155000000,9,6,5.5,14.5,20,Paved,thulo bharyang,18,7
+Kathmandu,32500000,4,3,2,5.75,11,Paved,tinkune,11,8
+Lalitpur,90000000,4,2,2.5,20,16,Paved,dhobighat,21,8
+Kathmandu,15000,2,1,3,3,13,Gravelled,kathmandu,9,63
+Lalitpur,150000,5,3,3,10,55.77428,Paved,hattiban,7,70
+Kathmandu,4500000,0,0,3,6,15,Paved,chabahil,0,8
+Kathmandu,21000000,6,5,2.5,4,14,Paved,sitapaila,14,8
+Lalitpur,21500000,5,3,2.5,3.25,20,Paved,imadol,13,6
+Lalitpur,22500000,6,3,2.5,3.5,20,Paved,imadol,12,6
+Kathmandu,35000000,4,4,2,7,20,Gravelled,budhanilkantha,24,8
+Kathmandu,60000000,5,4,2,14,16,Paved,mandikatar,21,8
+Kathmandu,75000000,0,4,2,11,18,Paved,inside ring road,20,8
+Kathmandu,36500000,4,3,2,5,15,Gravelled,shree tol,20,6
+Kathmandu,37500000,4,3,2,5,15,Paved,near highway,21,8
+Kathmandu,3500000,0,0,3,6,20,Paved,budhanilkantha,0,8
+Kathmandu,24000000,4,3,2,4,14,Paved,budhanilkantha,21,6
+Kathmandu,110000000,4,4,3,16,16,Paved,chapali,25,8
+Kathmandu,55000000,4,3,3,5,15,Paved,hadigaun,24,8
+Kathmandu,29500000,4,3,2,4,13,Paved,tokha,21,6
+Kathmandu,45000000,4,4,3,7,16,Paved,budhanilkantha,22,8
+Kathmandu,80000000,0,4,3,21,16,Paved,800 m from main highway,21,8
+Kathmandu,35000000,4,4,2,5,15,Paved,dhapasi,21,8
+Kathmandu,57500000,4,4,2,12,16,Paved,chapali,21,8
+Kathmandu,235000000,4,4,3,52,20,Paved,150 mtr from ring road.,25,8
+Kathmandu,55000000,4,4,2,9,20,Paved,golfutar.,22,8
+Kathmandu,67500000,4,4,3,9,20,Paved,maharajgunj,22,8
+Kathmandu,55000000,4,3,2,8,14,Paved,maharajgunj,22,8
+Kathmandu,35000000,6,3,2,5,15,Paved,only 150 meters from ring road,19,6
+Kathmandu,36000000,5,4,2,6,15,Paved,100 mtrs from main road,22,8
+Kathmandu,26000000,4,3,2,4,14,Paved,kapan,15,6
+Kathmandu,47500000,5,4,2,9,16,Paved,hepali height,20,8
+Kathmandu,18200000,5,5,3,3.2,13,Paved,kapan,4,6
+Kathmandu,200000,13,5,3.5,10,16,Paved,bishal nagar,12,8
+Kathmandu,26000000,6,5,3,4,14,Paved,kapan,5,6
+Kathmandu,39000000,5,5,3,7,14,Paved,swayambhu,6,12
+Kathmandu,2300000,0,0,3,5.1,12,Soil Stabilized,sitapaila,0,8
+Kathmandu,120000,4,4,2,8,14,Paved,mandikatar,4,8
+Kathmandu,33500000,5,5,3,5.5,13,Gravelled,hattigauda,8,6
+Kathmandu,39900000,5,6,3,7,14,Paved,basundhara,4,13
+Lalitpur,18000000,3,2,4,3.678597516,0,Soil Stabilized,balkumari,23,8
+Kathmandu,32500000,8,7,4,4,20,Paved,mandikatar,3,6
+Kathmandu,29000000,5,5,3,5,14,Gravelled,budhanilkantha,5,7
+Kathmandu,2600000,0,0,3,4,15,Soil Stabilized,tokha,0,8
+Kathmandu,36000000,5,5,3,6,13,Paved,budhanilkantha,5,12
+Kathmandu,47500000,4,5,3,9,15,Soil Stabilized,golfutar,10,12
+Kathmandu,28000000,0,0,3,4,12,Paved,gongabu,5,8
+Lalitpur,15000000,5,3,2.5,2.5,13,Gravelled,imadol,14,6
+Lalitpur,20000000,6,3,2.5,3.5,13,Gravelled,imadol,13,6
+Kathmandu,23000000,6,5,3,3.5,13,Gravelled,samakhusi,3,6
+Lalitpur,18500000,5,2,2.5,3.5,13,Gravelled,imadol,13,6
+Kathmandu,24500000,6,5,3,4,22,Gravelled,hattigauda,4,6
+Kathmandu,23800000,6,6,3,4,18,Paved,bhangal,5,6
+Kathmandu,39000000,6,6,3,6.5,15,Soil Stabilized,grande villa,9,6
+Kathmandu,31000000,5,5,3,4.5,14,Paved,budhanilkantha,7,6
+Kathmandu,29000000,6,5,3,4,13,Gravelled,tokha,3,6
+Kathmandu,25000000,6,5,3,3.5,13,Gravelled,grande villa,4,6
+Kathmandu,56000000,5,5,3,8,15,Paved,maharajgunj,7,11
+Kathmandu,67500000,5,5,3,9,20,Paved,maharajgunj,14,12
+Kathmandu,4000000,0,0,3,11,13,Paved,hattigauda,0,8
+Kathmandu,3500000,0,0,3,6,15,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,37500000,6,6,3,3.75,13,Paved,samakhusi,2,6
+Kathmandu,4200000,0,0,3,8,13,Paved,budhanilkantha,0,8
+Kathmandu,35000000,6,5,3,4.75,13,Paved,samakhusi,5,6
+Lalitpur,22000000,5,3,2.5,3.5,20,Gravelled,imadol,14,6
+Lalitpur,19500000,5,3,2.5,3.5,13,Gravelled,buddha colony,15,6
+Lalitpur,17000000,5,3,2.5,3.5,20,Paved,lubhu,4,8
+Lalitpur,17500000,6,4,2.5,3.125,16,Gravelled,imadol,13,6
+Kathmandu,4500000,0,0,3,12,15,Paved,mhepi,0,8
+Lalitpur,17500000,5,3,2.5,3.125,13,Gravelled,imadol,12,6
+Kathmandu,22000000,0,0,3,3.25,20,Paved,manamaiju,0,8
+Kathmandu,25000,2,1,3,5,0,Soil Stabilized,budhanilkantha,1,8
+Kathmandu,22000000,11,3,2.5,6,11,Gravelled,naikap,3,9
+Lalitpur,19000000,4,3,3,3.5,0,Soil Stabilized,imadol,0,6
+Kathmandu,1950000,0,0,3,3.25,12,Soil Stabilized,swayambhu,1,8
+Kathmandu,120000000,0,0,5,3.5625,30,Paved,putalisadak,2,8
+Lalitpur,1600000,0,0,3,5.3125,16,Paved,lubhu,0,8
+Kathmandu,22000000,5,2,2.5,2.75,13,Paved,jadibuti.,6,6
+Kathmandu,2500000,0,0,3,4.5,13,Soil Stabilized,mulpani,0,8
+Lalitpur,3000000,0,0,3,3.8125,13,Gravelled,imadol,0,8
+Kathmandu,17500000,5,4,3,3.1,15,Soil Stabilized,nagarjun,15,8
+Lalitpur,18000000,4,3,2,3.125,0,Soil Stabilized,imadol,0,6
+Kathmandu,34000000,5,4,3,6,14,Soil Stabilized,pepsicola,8,8
+Kathmandu,26300000,5,0,3,4,13,Soil Stabilized,kathmandu,3,8
+Kathmandu,37000000,6,0,3,5.25,13,Soil Stabilized,kathmandu,3,6
+Lalitpur,17000000,4,3,2.5,3.375,13,Gravelled,imadol,6,6
+Pokhara,700000,0,0,3,2,0,Soil Stabilized,dam side,0,8
+Lalitpur,2400000,0,0,3,3.3125,20,Gravelled,planning,2,8
+Lalitpur,17000000,8,3,2.5,3,13,Gravelled,koreran college,3,6
+Lalitpur,2800000,0,0,3,3.75,10,Paved,imadol,1,8
+Kathmandu,16000000,4,3,3,3,12,Paved,tokha,4,6
+Lalitpur,150000,3,3,3,5.843681519,26,Paved,sanepa,21,10
+Lalitpur,22000000,10,3,3,3.75,13,Paved,imadol,4,8
+Lalitpur,65000,0,0,4,6.375,72.17848,Paved,imadol,0,8
+Kathmandu,11500000,2,1,1,4,13,Paved,tarakeshwar,5,9
+Lalitpur,19700000,4,4,3,3.5,13,Soil Stabilized,imadol,3,6
+Kathmandu,29000000,6,5,3,4,20,Gravelled,baniyatar,2,6
+Kathmandu,45000000,6,6,3,8.5,13,Gravelled,hattigauda,7,7
+Kathmandu,36000000,4,5,3,7,30,Soil Stabilized,golfutar,9,7
+Kathmandu,35500000,5,5,3,5.5,13,Gravelled,hattigauda,8,7
+Kathmandu,6100000,0,0,3,3.0625,16,Paved,lainchaur,0,8
+Kathmandu,24100000,3,3,3,2.75,13,Paved,ekdhara,6,14
+Bhaktapur,15500000,4,2,3,3,13,Gravelled,balkot,4,9
+Kathmandu,40000000,5,5,3,7.5,20,Paved,budhanilkantha,5,6
+Lalitpur,20000000,3,2,3,3,20,Paved,thaiba,19,12
+Lalitpur,18000000,5,3,3,3.1,13,Paved,lalitpur,8,63
+Lalitpur,35000000,18,16,3,6.5,12,Gravelled,harisiddhi,8,6
+Kathmandu,17000000,0,0,3,3,12,Soil Stabilized,manamaiju,3,8
+Lalitpur,15000,0,15,6,14,29.52756,Paved,lagankhel,6,63
+Kathmandu,26000000,4,3,2.5,3.5,13,Paved,gongabu,3,6
+Kathmandu,4500000,0,0,3,5.5,12,Paved,koteshwor,0,8
+Lalitpur,3100000,0,0,3,3.5,7,Paved,nakhipot,0,8
+Kathmandu,25500000,5,6,3,3.5,13,Paved,dhapasi,1,6
+Kathmandu,68000000,5,5,3,12,15,Paved,chapali,14,6
+Kathmandu,21500000,6,5,3,3.5,20,Gravelled,bhangal,3,6
+Kathmandu,18200000,6,0,3,3,13,Gravelled,mandikatar,1,6
+Kathmandu,80000000,4,4,3,21,14,Paved,pasikot,13,10
+Kathmandu,19900000,6,5,3,3.1,12,Paved,bhangal,2,6
+Kathmandu,72000000,5,5,3,17,15,Paved,dhapasi,0,12
+Kathmandu,60000000,5,5,3,6,13,Paved,baluwatar,9,6
+Kathmandu,57500000,6,5,3,12,15,Paved,budhanilkantha,16,7
+Kathmandu,66000000,5,5,3,14,20,Paved,dhapasi,21,11
+Kathmandu,29900000,7,5,3,4,13,Paved,ekatabasti,8,6
+Kathmandu,29900000,7,7,3,4,13,Paved,ekatabasti,10,6
+Kathmandu,33500000,4,4,3,5,20,Paved,dhapasi,9,10
+Lalitpur,37500000,5,4,3,4.75,16,Gravelled,hattiban,12,7
+Kathmandu,2300000,0,0,3,3.75,12,Soil Stabilized,swayambhu,0,8
+Kathmandu,2250000,0,0,3,4,20,Paved,gurujudhara,0,8
+Kathmandu,23000000,3,2,3,5.25,20,Soil Stabilized,balkhu,13,8
+Kathmandu,20600000,5,3,3,3.1,13,Soil Stabilized,swayambhu,3,6
+Kathmandu,26000000,5,3,3,4,26,Paved,kageshwari-manohara,6,67
+Kathmandu,65000000,5,5,3,8,20,Paved,dhapasi,21,6
+Kathmandu,45000000,4,5,3,7,15,Paved,budhanilkantha,5,7
+Kathmandu,3500000,0,0,3,4.5,13,Gravelled,hattigauda,0,8
+Kathmandu,28500000,8,3,3,4,16,Paved,planing,7,9
+Lalitpur,35000,4,3,2,4,16.4042,Paved,godawari,10,63
+Kathmandu,40000000,0,0,2.5,5,13,Paved,sanobharyang,8,6
+Kathmandu,400000,11,8,6,8,12,Soil Stabilized,thamel,20,66
+Lalitpur,19000000,0,0,3,4,0,Soil Stabilized,lalitpur,3,6
+Kathmandu,70000,2,1,6,8,12,Paved,paknajol,18,66
+Lalitpur,11000000,2,1,1,2.75,13,Soil Stabilized,lalitpur,4,8
+Lalitpur,19200000,4,5,3,3.0625,20,Paved,imadol,11,64
+Kathmandu,36000000,5,5,3,5.5,13,Paved,ekatabasti,6,8
+Kathmandu,20500000,4,4,3,4,15,Gravelled,sitapaila,2,8
+Kathmandu,45000,2,2,3,3.050401753,10,Paved,bishal nagar,4,8
+Lalitpur,150000,3,4,3,5.5,26.24672,Paved,jhamsikhel,0,8
+Kathmandu,18000000,4,4,3,3.1,13,Gravelled,sitapaila,1,7
+Kathmandu,72000000,5,5,3,13,15,Paved,budhanilkantha,9,7
+Kathmandu,23000000,6,5,3,4,13,Paved,tokha,4,7
+Kathmandu,19900000,6,4,3,3.1,13,Paved,mandikatar,1,9
+Kathmandu,40000000,7,8,4,4,14,Paved,samakhusi,1,7
+Kathmandu,21500000,5,5,3,3.5,13,Gravelled,bhangal,1,6
+Kathmandu,34500000,6,3,2,4,0,Soil Stabilized,janasahayog marga,0,82
+Kathmandu,70000000,4,4,2,16,14,Paved,basundhara,4,18
+Kathmandu,55000000,0,0,3,6.2,32.8084,Gravelled,paknajol,0,8
+Kathmandu,65000000,5,5,3,15,14,Paved,budhanilkantha,3,13
+Kathmandu,62000000,7,7,3,8,13,Paved,dhumbarahi,5,8
+Kathmandu,5800000,0,2,2,10,18,Paved,chabahil,11,22
+Lalitpur,150000,3,4,3,5.5,14,Paved,jhamsikhel,9,63
+Kathmandu,25500000,0,0,3.5,4.5,13,Paved,bafal,9,12
+Kathmandu,13500000,0,0,3,2.5,12,Paved,dharmasthali,0,8
+Lalitpur,28000000,0,0,3,5.75,20,Soil Stabilized,harisiddhi,0,8
+Kathmandu,20000000,0,0,3,3,14,Gravelled,gongabu,3,6
+Kathmandu,67500000,4,4,2,14,15,Paved,budhanilkantha,20,8
+Kathmandu,35000000,4,4,2,7,15,Gravelled,golfutar,18,9
+Kathmandu,32500000,4,3,3,4,30,Paved,golfutar,14,8
+Kathmandu,22000000,10,0,3,5,15,Paved,budhanilkantha,0,8
+Kathmandu,35000000,4,4,3,6,33,Paved,budhanilkantha,10,6
+Kathmandu,26000000,0,0,3,4,12,Gravelled,kathmandu,6,6
+Kathmandu,26500000,0,0,3,4,14,Paved,baniyatar,10,8
+Kathmandu,11500000,0,0,3,3.5,13,Paved,thankot,0,8
+Kathmandu,60000000,0,0,4,5.1,0,Soil Stabilized,balkhu,0,8
+Kathmandu,37000000,7,6,4,5,16,Paved,banasthali,10,66
+Kathmandu,1200000,0,0,3,8,20,Gravelled,ramkot,0,8
+Kathmandu,900000,0,0,3,3,10,Paved,balaju,0,8
+Bhaktapur,27000000,16,3,3,6,13,Paved,lokanthali,0,8
+Bhaktapur,1800000,0,0,3,3.75,10,Gravelled,suryabinayak,0,8
+Lalitpur,3700000,0,0,3,5,40,Gravelled,imadol,0,8
+Lalitpur,6500000,2,1,2,3,5,Gravelled,imadol,0,8
+Kathmandu,27500000,7,0,3,4.5,13,Paved,ekatabasti,1,63
+Kathmandu,18000000,6,4,3,3,13,Gravelled,golfutar,1,63
+Kathmandu,32000000,8,4,3,3.25,0,Soil Stabilized,naya bazar,13,8
+Lalitpur,38500000,4,4,3,5.625,13,Paved,kusunti,9,63
+Kathmandu,35000000,4,4,4,4,22,Paved,greenhill city,14,63
+Lalitpur,235000,3,3,10,5.224251278,20,Paved,sanepa,17,8
+Kathmandu,18200000,0,0,3,3,13,Paved,kapan,0,8
+Kathmandu,13500000,4,3,3,2.5,13,Gravelled,pepsicola,3,63
+Lalitpur,18000,2,1,3,2.629656684,15,Gravelled,dhapakhel,0,8
+Lalitpur,60000,3,3,3,3.5,13,Gravelled,hattiban,0,8
+Kathmandu,5700000,0,0,3,6.75,24,Gravelled,dhumbarahi,0,8
+Kathmandu,2000000,0,0,3,3,13,Soil Stabilized,goldhunga,0,8
+Kathmandu,50000,0,0,3,2.5,11,Paved,durbar marg,0,8
+Kathmandu,1150000,0,0,3,8,13,Soil Stabilized,thankot,0,8
+Kathmandu,32500000,6,5,3,5,12,Paved,aakase dhara,9,6
+Bhaktapur,85000,0,0,3,12,12,Soil Stabilized,balkot,0,63
+Kathmandu,1050000,0,0,3,7.5,13,Paved,thankot,0,8
+Kathmandu,18000000,0,3,3,3.3125,9,Paved,battisputali,5,8
+Kathmandu,3000000,0,0,3,5,10,Soil Stabilized,kirtipur,0,8
+Kathmandu,20000000,0,0,3,5,30,Paved,kathmandu,0,8
+Lalitpur,14500000,0,0,3,3,13,Gravelled,sano gaun,0,8
+Kathmandu,1900000,0,0,3,5,12,Soil Stabilized,kirtipur,0,8
+Kathmandu,45000000,0,0,3,8,15,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,49500000,0,0,3,9,15,Paved,budhanilkantha,12,8
+Lalitpur,70000000,3,3,2,10,20,Paved,satdobato,0,32
+Kathmandu,70000000,4,3,3,9.5,20,Paved,shantinagar,0,33
+Kathmandu,4300000,0,0,3,9,9,Paved,chhauni,0,8
+Lalitpur,25000000,3,5,3,4,20,Paved,sanepa,0,8
+Lalitpur,16000000,16,4,4,4,10,Paved,lalitpur,0,19
+Lalitpur,13500000,3,9,3,2.75,10,Soil Stabilized,imadol,7,6
+Lalitpur,12000000,2,1,1,3.0625,12,Soil Stabilized,imadol,0,8
+Lalitpur,2700000,0,0,3,6.5,16,Paved,bhaisepati,3,8
+Kathmandu,27800000,6,3,3,5,13,Gravelled,mandikatar,1,63
+Lalitpur,36000000,3,3,3,6.5,20,Paved,dhapakhel,0,17
+Kathmandu,100000000,8,9,4,13.5,13,Paved,ghattekulo,0,17
+Kathmandu,60000000,6,3,3,9.25,20,Paved,old baneshwor,0,32
+Kathmandu,4000000,0,0,3,4.875,20,Paved,raniban,0,8
+Kathmandu,65000000,5,5,3,15,13,Soil Stabilized,budhanilkantha,9,7
+Kathmandu,56000000,6,6,3,10,20,Soil Stabilized,golfutar,8,8
+Kathmandu,44500000,6,5,3,8.1,15,Paved,budhanilkantha,8,6
+Kathmandu,85000000,5,5,3,17,13,Soil Stabilized,hattigauda,9,8
+Kathmandu,38000000,0,0,3,8,13,Paved,balaju,0,8
+Kathmandu,2000000,0,0,3,7,16,Paved,kalanki,0,8
+Kathmandu,1375000,0,0,3,4,13,Gravelled,chandragiri,0,8
+Kathmandu,1450000,0,0,3,4,13,Paved,thankot,0,8
+Kathmandu,19000000,8,0,3,3.125,10,Paved,radha krisna mandir,10,8
+Kathmandu,50000,6,3,2,6.5,10,Paved,jorpati,10,64
+Kathmandu,1700000,0,0,3,6.5,14,Paved,thankot,0,8
+Kathmandu,7500000,3,1,1,2.5,4,Soil Stabilized,kadaghari,0,8
+Kathmandu,47500000,5,4,3,8,20,Paved,budhanilkantha,0,12
+Kathmandu,25000000,3,3,3,4,20,Paved,dhapasi,0,8
+Lalitpur,22500000,7,2,3,3.875,13,Gravelled,imadol,0,8
+Lalitpur,35000000,5,4,3,6,20,Paved,thaiba,0,13
+Kathmandu,50000000,7,4,2,7,10,Paved,mid baneshwor,13,6
+Lalitpur,4000000,0,0,3,5.5,12,Gravelled,chakupat,0,8
+Kathmandu,25000000,7,5,4,3,13,Gravelled,balaju,11,63
+Kathmandu,16500000,0,0,2,3.0625,14,Paved,syuchatar,8,6
+Kathmandu,46000000,5,4,3,7,13,Paved,chhauni,5,8
+Bhaktapur,30000000,5,4,3,7.5,15,Paved,kausaltar,0,8
+Bhaktapur,1700000,0,0,3,4.8125,20,Gravelled,bhaktapur,0,8
+Kathmandu,3300000,0,0,3,5.5,26.24672,Soil Stabilized,mulpani,0,8
+Kathmandu,7000000,0,0,3,4,20,Paved,gongabu,0,8
+Kathmandu,28000000,2,4,3,5,13,Gravelled,basbari,0,8
+Kathmandu,35000000,0,0,3,4.25,13,Paved,mid baneshwor,0,8
+Kathmandu,49000000,0,0,3,4.5,12,Paved,thapagaun,0,8
+Kathmandu,20000,2,1,3,6,13,Soil Stabilized,budhanilkantha,7,64
+Kathmandu,21500000,5,5,3,3.5,13,Gravelled,bhangal,0,6
+Kathmandu,3900000,0,0,3,8,15,Paved,tokha,0,8
+Kathmandu,6700000,0,0,3,4,33,Soil Stabilized,golfutar,0,8
+Kathmandu,25500000,7,5,3,5,20,Gravelled,budhanilkantha,3,6
+Kathmandu,4200000,0,0,3,8,15,Paved,budhanilkantha,0,8
+Kathmandu,16500000,8,0,3,3.0625,13,Gravelled,gothatar,0,8
+Kathmandu,22000000,11,0,3,4.25,13,Gravelled,bhangal,0,8
+Bhaktapur,10500000,0,0,3,4,10,Paved,changunarayan,0,8
+Kathmandu,2200000,0,0,3,9.5,18,Paved,budhanilkantha,0,8
+Lalitpur,1250000,0,0,3,4.25,20,Soil Stabilized,lubhu,0,8
+Kathmandu,70000000,5,7,2,12,14,Paved,dhumbarahi,17,8
+Kathmandu,39500000,5,6,3,5.75,20,Paved,banasthali,13,8
+Kathmandu,18000000,2,1,1,5.25,12,Paved,chabahil,1,8
+Lalitpur,4300000,0,0,3,5,26,Paved,mahalaxmisthan,0,8
+Kathmandu,22000000,3,4,3,3,14,Soil Stabilized,sitapaila,5,64
+Kathmandu,110000,0,6,3,6,22,Paved,tarkeshwor,6,8
+Kathmandu,5500000,0,0,3,9,16,Paved,baluwatar,0,8
+Kathmandu,8500000,0,0,3,7,16,Paved,naxal,0,8
+Kathmandu,47000000,18,6,3,6,13,Paved,sukedhara,11,8
+Kathmandu,175000,0,0,4,5.259313367,42,Paved,baluwatar,0,8
+Kathmandu,22500000,0,4,3,3,12,Gravelled,kathmandu nepal,4,73
+Kathmandu,45000000,6,6,3,8,20,Paved,dhapasi,18,8
+Kathmandu,130000000,6,7,2,26,20,Paved,budhanilkantha,18,65
+Kathmandu,15000000,0,0,3,9,60,Paved,lazimpat,0,8
+Kathmandu,7500000,0,0,3,9.25,45,Paved,dhumbarahi,0,8
+Kathmandu,4000000,0,0,3,6.5,12,Paved,dhapasi,0,8
+Kathmandu,120000000,4,5,2,12.125,20,Paved,mid baneshwor,13,8
+Kathmandu,100000,2,2,9,4.005843682,0,Soil Stabilized,bishal nagar,18,8
+Lalitpur,45000,3,3,3,2.5,16,Gravelled,gwarko,5,6
+Kathmandu,350000,0,0,8,6.428049671,98.4252,Paved,baneshwor,10,8
+Kathmandu,22000000,6,5,3,5,14,Gravelled,kapan,9,66
+Lalitpur,17000000,3,2,2,4,13,Gravelled,tikathali,1,63
+Kathmandu,30000000,10,8,4,4,30,Paved,budhanilkantha,5,14
+Kathmandu,7000000,0,0,3,3,10,Soil Stabilized,kavresthali,0,8
+Lalitpur,19000000,4,4,3,4.0625,13,Gravelled,thaiba,11,7
+Kathmandu,12000000,1,1,1,2.6875,10,Gravelled,tarakeshwar,8,6
+Kathmandu,122500000,23,10,3,2.5,15,Paved,newroad,0,8
+Kathmandu,55000,4,4,3,6.135865595,15,Gravelled,boudha,0,8
+Kathmandu,1500000,0,0,3,3.5,12,Gravelled,thali,0,8
+Kathmandu,1300000,0,0,3,4,4,Soil Stabilized,thali,0,8
+Kathmandu,1350000,0,0,3,6,12,Gravelled,thali,0,8
+Kathmandu,80000,6,2,3,5,20,Paved,minbhawan,0,20
+Kathmandu,20000000,0,0,3,4,15,Soil Stabilized,dashindhoka jorpati,0,8
+Lalitpur,17000000,8,3,3,3,13,Paved,tikathali,0,8
+Kathmandu,17000000,0,0,3,3,10,Gravelled,tarkeshwor,0,8
+Kathmandu,8500000,4,0,3,2.5,10,Soil Stabilized,tarkeshwor,0,8
+Lalitpur,1100000,0,0,3,5,20,Gravelled,godawari,0,8
+Lalitpur,15500000,8,0,3,3,20,Gravelled,harisiddhi,0,8
+Kathmandu,2600000,0,0,3,7,20,Paved,naikap,0,8
+Pokhara,60000000,0,0,3,48.1875,20,Paved,pokhara,0,8
+Kathmandu,24000,0,3,2,13,0,Paved,koteshwor,7,30
+Kathmandu,5600000,0,0,3,5,15,Paved,tinkune,0,8
+Kathmandu,44000000,5,6,3,4,15,Paved,samakhusi,6,6
+Kathmandu,100000000,6,6,3,20,20,Paved,budhanilkantha,15,11
+Kathmandu,96000000,5,7,3,18,20,Paved,budhanilkantha,18,8
+Kathmandu,28500000,6,6,3,4.5,20,Paved,bhangal,6,6
+Kathmandu,22500000,0,0,3,4,16,Paved,kadaghari,0,8
+Kathmandu,41000000,17,10,3,8.1,15,Paved,swayambhu,8,8
+Lalitpur,2500000,0,0,3,5,0,Soil Stabilized,bhaisepati,0,8
+Kathmandu,1200000,0,0,3,5.405405405,40,Paved,jamal,0,8
+Kathmandu,170000,3,4,7,6.135865595,20,Paved,naxal,17,8
+Kathmandu,65000000,5,6,3,6.5,15,Paved,maharajgunj,10,6
+Lalitpur,95000,4,2,4,8,0,Paved,kupondole,8,8
+Bhaktapur,15000,2,1,3,2.629656684,15,Paved,balkot,0,8
+Kathmandu,115000000,4,4,3,18,13,Paved,basbari,22,73
+Kathmandu,4000000,0,0,3,5,0,Soil Stabilized,near sunrise bank,0,8
+Kathmandu,1400000,0,0,3,4,0,Soil Stabilized,tarakeshwar,0,8
+Lalitpur,3500000,0,0,3,4,20,Paved,bhaisepati,0,8
+Lalitpur,2300000,0,0,3,5,13,Paved,hattiban,0,8
+Pokhara,230000,0,0,3,8,32,Paved,lekhnath,0,8
+Kathmandu,2100000,0,0,3,4,16,Gravelled,kirtipur,0,8
+Kathmandu,35000000,6,4,3,6.5,32,Paved,dhapasi,7,8
+Kathmandu,140000000,7,4,3,23,26,Paved,dhungedhara,2,8
+Bhaktapur,7500000,0,0,3,3,13,Gravelled,duwakot,0,8
+Kathmandu,9500000,0,0,3,2.75,10,Paved,naikap,0,8
+Kathmandu,20000000,0,0,3,3.25,13,Paved,bhangal,0,8
+Kathmandu,18000000,0,0,3,3,16,Paved,hattigauda,0,8
+Kathmandu,160000,0,4,6,7.012417823,0,Soil Stabilized,newroad,4,71
+Kathmandu,35000000,0,0,3,7,15,Gravelled,hattigauda,0,8
+Dharan,25000,0,0,3,6.428049671,13,Paved,dharan,0,8
+Kathmandu,15000,0,0,3,8,24,Paved,narayanthan,0,64
+Kathmandu,25000,1,1,3,6,16,Paved,banasthali,15,69
+Kathmandu,35000,0,2,3,3,0,Soil Stabilized,lazimpat,4,8
+Kathmandu,5500000,0,0,3,4.5,16,Paved,sairam chowk,1,8
+Lalitpur,17600000,2,2,3,2.8125,13,Soil Stabilized,patan,7,8
+Kathmandu,18500000,0,0,3,3.5,13,Gravelled,kapan,0,8
+Lalitpur,25000000,0,0,3,5.5,12,Gravelled,bhaisepati,9,8
+Kathmandu,33000000,5,4,4,5,12,Paved,anamnagar,5,14
+Kathmandu,22000,2,2,3,6,13,Paved,balkhu,2,8
+Kathmandu,22500000,9,4,3,3,13,Paved,samakhusi,6,8
+Kathmandu,27500000,6,3,3,4,13,Paved,samakhusi,9,8
+Lalitpur,23800000,6,3,3,4,13,Gravelled,imadol,6,66
+Kathmandu,18500000,8,0,3,3.5,12,Soil Stabilized,naikap,0,8
+Kathmandu,33000000,12,0,3,6.25,12,Gravelled,kirtipur,0,8
+Kathmandu,23000000,10,0,3,4,12,Paved,swayambhu,8,8
+Kathmandu,15500000,7,0,3,3,12,Gravelled,balambu,0,8
+Bhaktapur,8500000,0,0,3,2.625,26.24672,Soil Stabilized,madhyapur thimi,0,8
+Kathmandu,2225000,0,0,3,9.625,15,Gravelled,budhanilkantha,0,8
+Kathmandu,19000000,0,0,3,2.75,10,Paved,dhumbarahi,0,8
+Kathmandu,29800000,0,0,3,5.5,15,Paved,basundhara,0,8
+Kathmandu,3500000,0,0,3,5,14,Gravelled,kalanki,1,8
+Kathmandu,17000,3,3,3,4,17,Soil Stabilized,gokarneshwor,3,63
+Kathmandu,26200000,13,0,3,6.25,13,Paved,budhanilkantha,0,8
+Kathmandu,4600000,0,0,1,3,13,Soil Stabilized,tathali,0,8
+Lalitpur,1000000,0,0,3,5,17,Gravelled,lubhu,0,8
+Lalitpur,26500000,4,4,3,5,16,Gravelled,nakkhu,13,7
+Kathmandu,8500000,0,0,3,8.0625,13,Paved,gaushala,0,8
+Kathmandu,40000,0,2,3,4.090577064,36.08924,Gravelled,nagarjun,0,8
+Kathmandu,41000000,5,4,2,8.25,13,Paved,budhanilkantha,0,9
+Lalitpur,175000,0,0,3,6.428049671,15,Paved,dhobighat,0,8
+Kathmandu,42000000,11,0,3,7,15,Paved,basundhara,0,8
+Kathmandu,15000,2,1,4,2.828341855,32,Paved,dhapasi,15,67
+Kathmandu,2800000,0,0,3,5,10,Soil Stabilized,kageshwari-manohara,0,8
+Bhaktapur,1300000,0,0,3,10,13,Gravelled,saraswatikhel,0,8
+Kathmandu,21500000,0,0,3,5,16,Paved,kapan,0,8
+Kathmandu,2500000,0,0,3,3.75,10,Soil Stabilized,chhauni,0,8
+Kathmandu,25500000,6,4,3,4.5,13,Paved,budhanilkantha,1,8
+Kathmandu,15000000,0,0,3,3,10,Paved,kapan,0,9
+Kathmandu,32000000,5,5,3,4,13,Paved,kapurdhara,6,8
+Lalitpur,2900000,0,0,3,4,22,Paved,magar ghau,0,8
+Lalitpur,2700000,0,0,3,3.25,10,Soil Stabilized,imadol,0,8
+Kathmandu,32000000,6,3,3,5,30,Soil Stabilized,pepsicola,7,8
+Kathmandu,15000,0,0,3,2.629656684,15,Gravelled,kirtipur,0,8
+Bhaktapur,11500000,0,0,3,3.1875,12,Gravelled,dadikot,0,8
+Kathmandu,1500000,0,0,3,3.75,13,Gravelled,goldhunga,0,8
+Kathmandu,1200000,0,0,3,4.6875,20,Soil Stabilized,chabahil,0,8
+Kathmandu,5400000,0,0,3,4,19.68504,Paved,boudha,0,8
+Kathmandu,14000000,8,0,3,2.5,13,Gravelled,gothatar,0,8
+Kathmandu,250000,0,0,4,8.765522279,65.6168,Paved,gyaneshwor,0,8
+Lalitpur,49500000,0,0,3,9,16,Paved,hattiban,0,8
+Kathmandu,1700000,0,0,3,13,16,Soil Stabilized,balambu,0,8
+Kathmandu,1100000,0,0,3,4.6875,13,Soil Stabilized,chandragiri,0,8
+Kathmandu,10000000,0,0,3,4,13,Paved,gairidhara,0,8
+Lalitpur,80000000,5,5,3,9,20,Paved,dhobighat,0,13
+Kathmandu,17000000,5,2,3,3,12,Paved,kadaghari,3,6
+Bhaktapur,18000,2,1,3,2.629656684,15,Gravelled,lokanthali,0,8
+Kathmandu,40000,0,0,3,2.337472608,15,Paved,pepsicola,0,8
+Kathmandu,15000,1,1,3,2.045288532,15,Gravelled,pepsicola,0,8
+Lalitpur,10000000,2,2,1,3,13,Paved,imadol,6,8
+Lalitpur,30000000,9,5,4,3.5,33,Paved,way to tikathali,6,6
+Lalitpur,4500000,0,0,3,8,15,Gravelled,bhaisepati,0,8
+Kathmandu,1200000,0,0,3,4.5,12,Gravelled,sitapaila,0,8
+Kathmandu,1300000,0,0,3,10,10,Soil Stabilized,naikap,0,8
+Kathmandu,1700000,0,0,3,4,10,Soil Stabilized,naikap,0,8
+Kathmandu,22500000,0,3,3,3.5,13,Paved,jyoti nagar,1,8
+Lalitpur,5500000,0,0,3,8,15,Paved,sanepa,0,8
+Lalitpur,7000000,0,0,3,11,15,Paved,sanepa,0,8
+Lalitpur,5500000,0,0,3,12,13,Paved,sanepa,0,8
+Kathmandu,22000000,11,0,2,5,15,Gravelled,kadaghari,0,8
+Kathmandu,36000000,0,0,3,6.75,20,Gravelled,gothatar,0,8
+Kathmandu,13200000,7,0,2,2.5,13,Gravelled,kadaghari,0,8
+Kathmandu,29000000,18,0,4,4.25,32,Gravelled,kapan,0,8
+Bhaktapur,80000,5,4,3,6.428049671,15,Paved,bhaktapur,0,8
+Kathmandu,20500000,0,0,3,5,20,Paved,sitapaila,0,8
+Kathmandu,27000000,3,4,3,3.5,0,Soil Stabilized,tahachal,0,64
+Lalitpur,8000000,0,0,3,6,0,Soil Stabilized,sanepa,0,8
+Kathmandu,12000000,0,0,3,4.25,26,Paved,balaju,0,8
+Lalitpur,19500000,5,3,3,3.5,13,Gravelled,imadol,0,6
+Kathmandu,25000,0,0,3,2.92184076,0,Soil Stabilized,tinkune,0,8
+Kathmandu,19500000,0,0,3,4.25,13,Paved,basundhara,0,8
+Lalitpur,3700000,0,0,3,4,5,Paved,dhobighat,0,8
+Kathmandu,1350000,0,0,3,10,13,Soil Stabilized,sankhu,0,8
+Kathmandu,3700000,0,0,3,4,12,Gravelled,boudha,0,8
+Kathmandu,1500000,0,0,3,4,20,Paved,thankot,0,8
+Kathmandu,1600000,0,0,3,5.0625,13,Paved,chandragiri,0,8
+Kathmandu,26500000,11,5,3,4,13,Paved,kapan,0,8
+Kathmandu,25500000,11,0,3,4,13,Paved,kapan,0,8
+Kathmandu,29500000,5,2,3,6.9375,15,Paved,naikap,11,15
+Kathmandu,23500000,0,3,3,4.1,13,Paved,budhanilkantha,1,64
+Lalitpur,15000000,4,3,3,2.5,13,Gravelled,imadol,0,8
+Lalitpur,19000000,4,3,3,3.1875,10,Gravelled,imadol,0,8
+Lalitpur,15000000,4,3,3,2.5,13,Gravelled,imadol,0,8
+Lalitpur,23500000,4,3,3,3.75,20,Gravelled,imadol,6,8
+Lalitpur,18000000,5,4,3,3,11,Gravelled,imadol,7,8
+Lalitpur,18500000,3,3,3,3.25,13,Gravelled,imadol,9,6
+Kathmandu,24500000,7,3,3,4.5,10,Gravelled,tokha,0,8
+Kathmandu,33000000,0,0,3,4.5,8,Gravelled,baneshwor,0,8
+Kathmandu,6500000,0,0,3,6,20,Soil Stabilized,minbhawan,0,8
+Kathmandu,6500000,0,0,3,12,20,Soil Stabilized,baneshwor,0,8
+Lalitpur,6500000,0,0,3,12,20,Soil Stabilized,dhobighat,0,8
+Lalitpur,4800000,2,1,1,3,13,Gravelled,sanepa,9,64
+Bhaktapur,21500000,0,0,3.5,7,15,Gravelled,changunarayan,0,8
+Lalitpur,26000000,0,0,3,5.25,12,Paved,dhapakhel,0,8
+Lalitpur,2300000,0,0,3,3.25,13,Soil Stabilized,tikathali,0,8
+Jhapa,20000000,4,1,2,10,20,Paved,damak,0,8
+Lalitpur,19500000,4,4,2,5,20,Gravelled,baghdol,17,6
+Kathmandu,51000000,5,5,2,14,14,Paved,budhanilkantha,13,71
+Lalitpur,26500000,4,4,2,4,16,Gravelled,nakkhu,12,7
+Lalitpur,29500000,5,3,3,4,0,Soil Stabilized,dhobighat,10,8
+Bhaktapur,1550000,0,0,3,5,26,Soil Stabilized,suryabinayak,0,8
+Kathmandu,1600000,0,0,3,3,12,Gravelled,swayambhu,0,8
+Kathmandu,1600000,0,0,3,4,10,Gravelled,mulpani,0,8
+Kathmandu,15000000,2,3,3,3,12,Soil Stabilized,budhanilkantha,10,70
+Kathmandu,40000000,3,4,3,3,20,Soil Stabilized,naya bazar,0,7
+Kathmandu,17500000,6,2,3,11,20,Gravelled,mulpani,6,75
+Kathmandu,90000000,6,6,3,20,15,Paved,hattigauda,14,13
+Kathmandu,13500000,4,3,3,2.5,10,Paved,manamaiju,0,7
+Bhaktapur,2000000,0,0,3,2.629656684,15,Paved,madhyapur thimi,0,8
+Kathmandu,1500000,0,0,3,2.045288532,26.24672,Paved,baneshwor,0,8
+Lalitpur,11000000,3,1,1,3,14,Gravelled,imadol,0,8
+Bhaktapur,1400000,0,0,3,4,10,Soil Stabilized,suryabinayak,0,8
+Kathmandu,70000000,5,5,3,9,13,Paved,maharajgunj,0,8
+Kathmandu,17900000,5,5,3,3.5,14,Gravelled,bhangal,0,6
+Kathmandu,34500000,5,5,3,7,15,Paved,bhangal,4,6
+Kathmandu,27000,0,0,3,3,13,Soil Stabilized,lazimpat,0,8
+Kathmandu,41000000,7,6,3,7,20,Paved,basundhara,10,70
+Kathmandu,1900000,0,0,3,4.967129291,16,Paved,kalanki,0,8
+Kathmandu,1500000,0,0,3,4,0,Soil Stabilized,chabahil,0,8
+Bhaktapur,50000,0,0,3,2.75,13,Paved,suryabinayak,8,65
+Kathmandu,105000000,5,6,3,32,20,Paved,budhanilkantha,15,8
+Bhaktapur,3000000,0,0,3,3,10,Soil Stabilized,kausaltar,0,8
+Kathmandu,36500000,9,10,5,6,14,Paved,hattigauda,6,7
+Kathmandu,15000000,0,0,3,3,10,Paved,kirtipur,0,8
+Kathmandu,21000000,5,4,2,3.5,13,Gravelled,bhangal,1,8
+Kathmandu,38000000,0,0,3,8,14,Paved,chabahil,0,8
+Kathmandu,11000000,0,0,3,2.5,12,Paved,kapan,0,8
+Kathmandu,22000,4,0,3,2.629656684,13,Soil Stabilized,samakhusi,0,8
+Kathmandu,7500000,2,1,1,4.25,12,Gravelled,kapan,0,8
+Kathmandu,17500000,7,3,3,3.2,0,Soil Stabilized,ramkot,0,8
+Kathmandu,1350000,0,0,3,4,10,Gravelled,goldhunga,0,8
+Kathmandu,1700000,0,0,3,4.75,14,Gravelled,mulpani,0,8
+Kathmandu,5000000,0,0,3,4,20,Paved,manamaiju,0,8
+Kathmandu,5200000,0,0,3,3,24,Soil Stabilized,goldhunga,0,8
+Kathmandu,20000,0,0,3,2.629656684,12,Paved,kalanki,0,8
+Kathmandu,27000000,0,0,3,9,0,Soil Stabilized,swayambhu,0,8
+Lalitpur,13000000,2,1,1,3.9375,13,Gravelled,imadol,0,8
+Kathmandu,13000000,0,0,3,3.5,13,Gravelled,goldhunga,0,8
+Kathmandu,30000,2,1,3,2.629656684,10,Soil Stabilized,basundhara,0,8
+Kathmandu,8000000,7,3,3,4,10,Soil Stabilized,tarkeshwor,6,8
+Lalitpur,48000,4,3,2,4.25,15,Paved,phase ii,4,63
+Kathmandu,30000,0,0,3,2.544923302,12,Gravelled,sankhamul,0,8
+Kathmandu,17800000,5,6,3,3.1,12,Paved,tokha,0,6
+Kathmandu,4000000,0,0,3,8,18,Paved,budhanilkantha,0,8
+Kathmandu,21800000,5,6,3,3.5,12,Paved,budhanilkantha,0,6
+Kathmandu,29000000,0,0,3,3.75,10,Paved,kalopul,0,8
+Kathmandu,6000000,0,0,3,7.5,14,Paved,baluwatar,0,8
+Kathmandu,3500000,0,0,3,3,12,Soil Stabilized,kalanki,0,8
+Kathmandu,2400000,0,0,3,6.75,10,Paved,naikap,0,8
+Kathmandu,23000000,4,3,2,3.1,15,Gravelled,basundhara,4,8
+Kathmandu,29000000,5,0,3,4,12,Paved,kadaghari,0,8
+Kathmandu,70000000,3,4,2,16,20,Paved,dhapasi,0,8
+Kathmandu,15000,0,0,3,2.045288532,12,Paved,newroad,0,8
+Kathmandu,37500000,0,0,3,4.5,22,Paved,tinkune,9,8
+Kathmandu,11500000,0,0,3,4.25,12,Gravelled,kadaghari,0,8
+Kathmandu,12500000,6,0,3,2.75,13,Gravelled,kadaghari,0,8
+Kathmandu,2900000,0,0,3,4,12,Paved,jorpati,0,8
+Kathmandu,42500000,6,0,3,6.5,10,Paved,shantinagar,9,40
+Kathmandu,4200000,0,0,3,10,16,Gravelled,gaurighat,0,8
+Kathmandu,2400000,0,0,3,5,12,Paved,greenhill city,0,8
+Kathmandu,2300000,0,0,3,12,13,Soil Stabilized,kantipur colony,0,8
+Kathmandu,1200000,0,0,3,5,20,Gravelled,sankhu,0,8
+Kathmandu,22000000,0,0,3,4,22,Gravelled,balaju,9,8
+Kathmandu,30000000,5,4,3,4,20,Soil Stabilized,pasikot,0,7
+Lalitpur,17500000,0,0,3,3,13,Soil Stabilized,imadol,9,8
+Kathmandu,130000,0,0,3,8,15,Gravelled,sunrise bank,0,8
+Lalitpur,15000000,0,0,3,2.5,13,Gravelled,little angel's college of higher studies,0,8
+Kathmandu,3700000,0,0,3,4.5,20,Paved,jorpati,0,8
+Lalitpur,76000000,0,0,3,5,22,Soil Stabilized,kumaripati,0,8
+Lalitpur,1450000,0,0,3,3.75,13,Paved,lubhu,0,8
+Lalitpur,12000000,2,1,1,2.045288532,20,Paved,jhamsikhel,9,66
+Pokhara,37000000,7,5,3,6.5,20,Gravelled,ranipauwa,15,8
+Kathmandu,4000000,0,0,3,3,12,Gravelled,chamati,0,8
+Lalitpur,26000000,5,4,3,4,13,Paved,talimkendra,9,8
+Kathmandu,1400000,0,0,3,3,12,Soil Stabilized,bode pool,0,8
+Kathmandu,2200000,0,0,3,5,13,Gravelled,chandragiri,0,8
+Kathmandu,29800000,11,0,3,5,13,Paved,sukedhara,11,8
+Kathmandu,1700000,0,0,3,2.92184076,15,Paved,thamel,0,8
+Bhaktapur,800000,0,0,3,2.92184076,20,Paved,madhyapur thimi,0,8
+Kathmandu,1900000,0,0,3,2.92184076,15,Paved,baneshwor,0,8
+Kathmandu,25000000,6,4,3,4.6875,12,Gravelled,kirtipur,2,63
+Kathmandu,32000000,0,0,3,6,12,Paved,baneshwor,0,8
+Pokhara,9500000,0,0,3,7.5,15,Gravelled,pokhara,0,8
+Kathmandu,3500000,0,0,3,5.75,14,Paved,chabahil,0,8
+Lalitpur,15000,2,1,3,2.045288532,15,Paved,la school,0,8
+Lalitpur,1650000,0,0,3,3.75,10,Soil Stabilized,lubhu,0,8
+Kathmandu,11000000,0,0,3,3,10,Soil Stabilized,thali buspark,9,8
+Lalitpur,16000,0,0,3,2.92184076,15,Gravelled,bhaisepati,0,8
+Kathmandu,25000,0,0,3,2.045288532,10,Paved,baneshwor,0,8
+Kathmandu,17000000,6,3,2,4.1,11,Soil Stabilized,sano mandir,0,8
+Kathmandu,35000000,0,0,2,5.6875,20,Paved,chandragiri,4,8
+Lalitpur,30000000,4,4,3,4,13,Paved,sanepa,0,8
+Kathmandu,22000000,0,0,3,5.4375,30,Paved,kamaladi,0,8
+Kathmandu,24000000,0,0,3,3.75,13,Soil Stabilized,sukedhara,8,8
+Kathmandu,2750000,0,0,3,6.5,15,Paved,pepsicola,0,8
+Kathmandu,1900000,0,0,3,4.5,13,Gravelled,kirtipur,0,8
+Lalitpur,2500000,0,0,3,4,13,Gravelled,harisiddhi,0,8
+Lalitpur,6000000,0,0,3,8,20,Gravelled,sanepa,0,8
+Kathmandu,1200000,0,0,3,8,20,Soil Stabilized,kirtipur,0,8
+Kathmandu,21000000,0,0,3,3.5625,15,Soil Stabilized,chandragiri,0,8
+Kathmandu,22500000,0,0,2,3.625,13,Gravelled,banasthali,0,8
+Kathmandu,115000000,0,0,3,32,14,Paved,budhanilkantha,0,13
+Kathmandu,28000000,0,0,3,4,15,Gravelled,budhanilkantha,0,8
+Lalitpur,10000000,0,0,3,5,12,Soil Stabilized,lamatar,0,8
+Lalitpur,25000000,0,0,3,8,14,Gravelled,lamatar,0,8
+Kathmandu,3500000,0,0,3,5.9375,14,Paved,ktm-13,0,8
+Kathmandu,24000000,6,6,3,4,15,Paved,bhangal,0,6
+Kathmandu,24000000,6,6,3,4,14,Paved,bhangal,0,6
+Lalitpur,21000000,5,3,3,3,13,Paved,imadol,8,68
+Lalitpur,5500000,0,0,3,11,10,Gravelled,ekantakuna,0,8
+Lalitpur,5000000,0,0,3,5,20,Paved,lalitpur,0,8
+Kathmandu,2000000,0,0,3,8.25,15,Paved,satungal,0,8
+Kathmandu,2500000,0,0,3,4,13,Gravelled,forcepark,0,8
+Lalitpur,12500000,0,0,2,3,13,Gravelled,harisiddhi,0,8
+Lalitpur,1000000,0,0,3,5,4,Soil Stabilized,sanepa,0,8
+Kathmandu,27500000,5,3,3,4,26,Gravelled,grandy hospital,10,8
+Kathmandu,24000000,0,0,3,4,15,Paved,jorpati,0,8
+Kathmandu,2000000,0,0,3,3.5,24,Gravelled,budhanilkantha,0,8
+Kathmandu,24000000,11,3,3,4,13,Paved,laxmi bank,7,8
+Kathmandu,1900000,0,0,3,4,13,Gravelled,budhanilkantha,0,8
+Kathmandu,24500000,7,4,3,3.3,12,Soil Stabilized,dhungedhara,1,8
+Kathmandu,100000,0,0,3,4,13,Paved,baneshwor,0,8
+Lalitpur,28500000,3,5,3,4.5,18,Paved,bhaisepati,7,63
+Kathmandu,4200000,0,0,3,8,20,Paved,budhanilkantha,0,8
+Kathmandu,62000000,4,6,3,10,15,Paved,budhanilkantha,7,6
+Kathmandu,42500000,6,6,4,6,15,Paved,basundhara,3,7
+Kathmandu,24500000,5,5,3,4,30,Gravelled,hattigauda,2,6
+Kathmandu,45000000,6,6,3,8,15,Paved,basundhara,7,8
+Kathmandu,33000000,0,0,3,6.5,18,Paved,hattigauda,4,8
+Kathmandu,80000000,0,0,3,10.875,12,Paved,bijay chowk,10,8
+Lalitpur,46500000,0,0,2,4,21,Paved,near open university manbhawan,9,12
+Kathmandu,34000000,5,0,3,4,15,Paved,russian embassy,10,8
+Lalitpur,2200000,0,0,3,5,20,Paved,nakhipot,0,8
+Kathmandu,6500000,0,0,3,4,20,Paved,maharajgunj,0,8
+Kathmandu,5800000,0,0,3,13.73557341,20,Paved,mid baneshwor,0,8
+Kathmandu,21500000,4,3,3,7.888970051,12,Paved,jorpati,11,8
+Kathmandu,15900000,5,3,3,3,8,Soil Stabilized,joranku,6,7
+Kathmandu,60000,3,2,12,4.327246165,0,Paved,dhapasi,9,8
+Kathmandu,110000,3,3,3,6,12,Paved,baluwatar,0,8
+Kathmandu,1650000,0,0,3,5.25,10,Soil Stabilized,tokha,0,8
+Kathmandu,23500000,0,0,3,3.25,15,Paved,basundhara,5,8
+Kathmandu,1000000,0,0,3,2.5,15,Soil Stabilized,goldhunga,0,8
+Kathmandu,42000000,0,0,2.5,4,20,Paved,sukedhara,0,8
+Bhaktapur,14000000,0,0,3,5,13,Gravelled,bhaktapur,0,8
+Kathmandu,6500000,0,0,3,2.92184076,20,Paved,boudha,0,8
+Kathmandu,1800000,0,0,3,2.045288532,15,Paved,putalisadak,0,8
+Kathmandu,2000000,0,0,3,2.92184076,15,Paved,chabahil,0,8
+Lalitpur,9000000,0,0,3,8.765522279,20,Paved,satdobato,0,8
+Kathmandu,2000000,0,0,3,5,12,Gravelled,rarahill school,0,8
+Kathmandu,8500000,2,1,1,3.25,10,Gravelled,gurujudhara,4,8
+Kathmandu,3500000,0,0,3,3.25,18,Gravelled,bafal,0,8
+Bhaktapur,4100000,0,0,3,3.4375,36,Paved,chardobato,0,8
+Lalitpur,150000000,10,10,4.5,17,20,Paved,sanepa,9,8
+Kathmandu,12500000,0,0,3,3.25,13,Soil Stabilized,dhapasi,0,8
+Kathmandu,2700000,0,0,3,5,13,Gravelled,dhapasi,0,8
+Kathmandu,675000,0,0,3,5.75,10,Soil Stabilized,jorpati,0,8
+Kathmandu,46000000,0,0,3,8,13,Paved,baluwatar,7,8
+Lalitpur,33000000,0,0,3,5.25,13,Soil Stabilized,nakkhu,3,66
+Kathmandu,1900000,0,0,3,4,16,Paved,daha chowk,0,8
+Kathmandu,19000000,6,3,3,3.2,0,Soil Stabilized,balaju,10,64
+Bhaktapur,15000,0,0,3,4,8,Paved,sipadol,0,8
+Kathmandu,30500000,4,4,3,5,15,Paved,budhanilkantha,8,63
+Lalitpur,1250000,0,0,3,6.5,13,Gravelled,lamatar,0,8
+Kathmandu,21000000,6,3,2,3,14,Paved,sukedhara,4,10
+Lalitpur,6000000,0,0,3,11,26,Soil Stabilized,kusunti,0,8
+Lalitpur,22500000,6,3,3,5,12,Paved,tikathali,1,6
+Bhaktapur,3200000,0,0,3,6,13,Paved,madhyapur thimi,0,8
+Kathmandu,2200000,0,0,3,9,15,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,55000000,10,5,3,8,15,Gravelled,lazimpat,7,8
+Kathmandu,2550000,0,0,3,11,13,Gravelled,budhanilkantha,0,8
+Kathmandu,40000000,5,4,2.5,6,15,Gravelled,sukedhara,8,8
+Kathmandu,2600000,0,0,3,14,13,Soil Stabilized,budhanilkantha,0,8
+Lalitpur,2350000,0,0,3,3,13,Paved,dhapakhel,0,8
+Kathmandu,10600000,2,1,1,3,10,Soil Stabilized,budanilkantha-11,6,8
+Kathmandu,35000,0,0,3,3,0,Soil Stabilized,baneshwor,0,8
+Kathmandu,38000,0,0,3,14,20,Soil Stabilized,pepsicola,0,8
+Lalitpur,19000000,4,5,3,5.551497443,15,Gravelled,bhaisepati,8,63
+Kathmandu,20000000,0,0,3,14,20,Soil Stabilized,durbar marg,0,8
+Lalitpur,2600000,0,0,3,5.8125,13,Soil Stabilized,bhaisepati,0,8
+Lalitpur,150000000,0,0,5,17,20,Soil Stabilized,sanepa,5,8
+Bhaktapur,1450000,0,0,3,5,12,Soil Stabilized,duwakot,0,8
+Kathmandu,39000000,5,2,3,5,14,Soil Stabilized,basundhara,5,8
+Kathmandu,39000000,4,4,2,10,13,Soil Stabilized,budhanilkantha,7,8
+Kathmandu,4700000,0,0,3,11,12,Soil Stabilized,tripureshwor,0,8
+Kathmandu,110000,3,3,3,3.506208912,20,Soil Stabilized,lazimpat,5,8
+Kathmandu,2800000,0,0,3,4,15,Soil Stabilized,hattigauda,0,8
+Kathmandu,26000000,0,0,3,6.375,16,Soil Stabilized,budhanilkantha,5,8
+Bhaktapur,725000,0,0,3,14,13,Soil Stabilized,changunarayan,0,8
+Lalitpur,180000,2,2,3,3.506208912,13,Soil Stabilized,jhamsikhel,7,8
+Lalitpur,125000,6,4,3,8.99926954,20,Paved,dhapakhel,14,66
+Kathmandu,33000000,0,0,4,7,20,Soil Stabilized,boudha,5,8
+Kathmandu,2100000,0,0,3,5.8125,0,Soil Stabilized,tokha,0,8
+Lalitpur,170000,0,0,3,8,13,Soil Stabilized,kupondole,5,8
+Kathmandu,160000,7,5,3,8,13,Soil Stabilized,baluwatar,5,8
+Kathmandu,24500000,0,0,3,4,14,Soil Stabilized,bhangal,6,8
+Kathmandu,61500000,0,0,3,18,15,Soil Stabilized,hattigauda,6,8
+Kathmandu,70000000,4,5,3,10,12,Soil Stabilized,banasthali,8,8
+Kathmandu,1000000,0,0,5,8,20,Soil Stabilized,tripureshwor,3,8
+Lalitpur,70000000,9,4,4,16,9,Soil Stabilized,kupondole,6,8
+Bhaktapur,1200000,0,0,3,6,0,Soil Stabilized,sallaghari,0,8
+Kathmandu,1950000,0,0,3,5,15,Soil Stabilized,mahankal,0,8
+Kathmandu,30000,2,1,5,2.483564646,20,Paved,kuleshwor,16,18
+Kathmandu,35000000,5,4,3,8.312636961,12,Paved,budhanilkantha,8,6
+Bhaktapur,2200000,0,0,3,4,13,Gravelled,madhyapur thimi,0,8
+Kathmandu,2500000,0,0,3,5,10,Gravelled,baniyatar,0,8
+Kathmandu,25000000,6,0,3,4,16,Gravelled,banasthali,10,64
+Lalitpur,16000000,0,0,3,5,13,Gravelled,tikathali,0,8
+Kathmandu,10500000,2,1,1,3.2,12,Gravelled,makalbari,9,14
+Kathmandu,12500000,3,3,3,3,10,Gravelled,kapan,9,8
+Kathmandu,13500000,0,2,3,2.5,12,Soil Stabilized,bafal,0,8
+Lalitpur,1250000,0,0,3,8,22,Gravelled,godawari,0,8
+Kathmandu,142500000,42,0,3,7,22,Paved,budhanilkantha,0,8
+Lalitpur,90000,4,2,3,7,20,Soil Stabilized,patandokha,5,8
+Lalitpur,40000,0,0,3,3,13,Soil Stabilized,nakkhu,5,8
+Lalitpur,125000,0,0,3,7,13,Soil Stabilized,bakhundol,5,8
+Lalitpur,100000,0,0,3,10,13,Soil Stabilized,kupondole,5,8
+Kathmandu,175000,0,0,3,10,15,Soil Stabilized,baluwatar,6,8
+Lalitpur,150000,0,0,3,9,13,Soil Stabilized,sanepa,5,8
+Lalitpur,100000,3,3,3,4,18,Soil Stabilized,bhaisepati,5,8
+Kathmandu,1500000,0,0,3,5,12,Paved,chandragiri,0,8
+Lalitpur,19500000,6,5,3,4,14,Soil Stabilized,khumaltar,6,8
+Lalitpur,97500000,3,0,2,24,20,Soil Stabilized,bhaisepati,7,63
+Kathmandu,38000000,7,4,3,6.1,14,Soil Stabilized,kalanki,5,8
+Kathmandu,4500000,0,0,3,4,26.24672,Soil Stabilized,sankhamul,0,8
+Kathmandu,210000,0,0,5,4,20,Soil Stabilized,kalanki,2,8
+Kathmandu,29500000,4,3,3,7,20,Soil Stabilized,sitapaila,6,8
+Lalitpur,4500000,0,0,3,3.5,10,Soil Stabilized,sanepa,0,8
+Kathmandu,14000000,6,0,3,4,12,Soil Stabilized,grandy,6,8
+Kathmandu,120000,3,3,2,4.046749452,20,Soil Stabilized,panipokhari,5,8
+Kathmandu,30000,5,0,3,6.428049671,15,Paved,budhanilkantha,0,8
+Kathmandu,43500000,0,0,3,3.85,20,Soil Stabilized,hattisar,2,8
+Lalitpur,2800000,0,0,3,7.1,20,Soil Stabilized,hattiban,0,8
+Lalitpur,200000,5,4,3,4,20,Soil Stabilized,jhamsikhel,6,8
+Kathmandu,22000000,10,3,3,3.25,20,Soil Stabilized,boudha,3,8
+Lalitpur,120000,5,3,3,8,13,Soil Stabilized,bhaisepati,5,8
+Lalitpur,29500000,3,2,3,6,18,Paved,civil homes,16,69
+Kathmandu,45000000,5,5,3,7,12,Soil Stabilized,dhumbarahi,0,8
+Bhaktapur,22500000,12,4,4,4,20,Soil Stabilized,dadikot,5,8
+Lalitpur,100000,4,3,3,5,13,Soil Stabilized,bhaisepati,5,8
+Lalitpur,2500000,0,0,3,5.875,12,Soil Stabilized,imadol,0,8
+Kathmandu,18000000,3,4,3,3.5,13,Soil Stabilized,sitapaila,5,8
+Kathmandu,34500000,9,4,4,6.3,12,Soil Stabilized,sukedhara,6,8
+Kathmandu,72500000,7,6,3,14,20,Soil Stabilized,basundhara,6,8
+Kathmandu,11500000,2,1,1,3,13,Gravelled,grandy hospital,3,8
+Kathmandu,27500000,9,7,3,5,13,Soil Stabilized,lazimpat,5,8
+Kathmandu,3500000,0,0,3,4,12,Soil Stabilized,koteshwor,0,8
+Kathmandu,31500000,4,4,3,4,20,Soil Stabilized,chandol,1,8
+Kathmandu,170000000,0,0,3,19,20,Soil Stabilized,sukedhara,0,8
+Kathmandu,7700000,0,2,2,6.25,14,Soil Stabilized,new baneshwor,7,8
+Kathmandu,2650000,0,0,3,9.5,10,Gravelled,budhanilkantha,0,8
+Kathmandu,6200000,0,0,3,7,20,Paved,maharajgunj,0,8
+Kathmandu,37500000,2,3,3,5,14,Paved,basundhara,6,8
+Kathmandu,3800000,0,0,3,12,15,Gravelled,budhanilkantha,0,8
+Kathmandu,32500000,4,3,3,5,26,Paved,bhangal,8,8
+Kathmandu,80000,3,3,3,2,20,Paved,basundhara,6,63
+Kathmandu,1900000,0,0,3,7.375,14,Gravelled,budhanilkantha,0,8
+Lalitpur,1000000,0,0,3,8,20,Gravelled,godawari,0,8
+Bhaktapur,2400000,0,0,3,7,18,Soil Stabilized,sallaghari,0,8
+Kathmandu,17500000,0,0,3,4,16,Soil Stabilized,pasikot,0,8
+Kathmandu,37500000,0,0,3,6,20,Soil Stabilized,hattigauda,5,8
+Lalitpur,1300000,0,0,3,2.045288532,20,Paved,lagankhel,0,8
+Bhaktapur,25000000,2,1,1,7,13,Gravelled,balkot,0,8
+Kathmandu,18000000,0,0,3,3,13,Soil Stabilized,hattigauda,0,8
+Kathmandu,65000,3,3,2,6,20,Paved,chovar,8,64
+Bhaktapur,2000000,0,0,3,4.5,15,Soil Stabilized,sallaghari,0,8
+Kathmandu,30000,0,0,3,2.92184076,0,Soil Stabilized,narayan chowk,0,8
+Lalitpur,22000,3,2,3,3.798392988,15,Paved,near bnb hospital,1,8
+Kathmandu,20000,2,1,3,2.337472608,15,Gravelled,ranibari,1,8
+Kathmandu,4200000,0,0,3,11,20,Paved,sanobharyang,0,8
+Kathmandu,13800000,2,1,3,5,12,Soil Stabilized,pasikot,7,8
+Kathmandu,45000000,4,0,3,7.125,20,Paved,basbari,14,64
+Kathmandu,57500000,4,6,3,7,20,Soil Stabilized,budhanilkantha,8,8
+Kathmandu,175000,4,3,2,12,13,Soil Stabilized,baluwatar,6,8
+Kathmandu,1350000,0,0,3,3.25,15,Soil Stabilized,kavresthali,0,8
+Kathmandu,29000000,8,4,3,3.375,20,Paved,dallu,4,11
+Kathmandu,17800000,7,0,2,3.25,15,Gravelled,sundarbasti,6,8
+Kathmandu,29000000,5,3,2.5,4,15,Paved,golfutar,6,8
+Kathmandu,2400000,0,0,3,5,14,Gravelled,ganesh chowk,0,8
+Lalitpur,235000000,0,0,2,28,32,Paved,lalitpur,0,82
+Kathmandu,6750000,7,5,3,5,15,Paved,makalu petrol pump,7,8
+Lalitpur,9000000,0,0,3,3.5,12,Gravelled,lalitpur,0,8
+Kathmandu,3500000,0,0,3,5,10,Soil Stabilized,bafal,0,8
+Kathmandu,45000000,0,0,4,5,29.52756,Paved,teku,3,57
+Kathmandu,4100000,0,0,3,10,15,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,51000000,0,0,3,8,15,Paved,mandikatar,8,8
+Kathmandu,29000000,0,0,3,5.1875,20,Gravelled,muhanpokhari,8,6
+Kathmandu,235000000,0,0,3,3,12,Paved,kathmandu,0,8
+Bhaktapur,1900000,0,0,3,4.5625,13,Gravelled,balkot,0,8
+Bhaktapur,75000000,0,0,5,6.5,20,Paved,bhaktapur,10,7
+Kathmandu,26500000,0,0,3,3.5,12,Soil Stabilized,basundhara,5,8
+Pokhara,36500000,0,0,3,6.5,20,Gravelled,mahendrapul,15,8
+Kathmandu,41000000,0,0,3,4,12,Paved,balkhu,10,7
+Kathmandu,30000000,0,0,3,6,12,Soil Stabilized,basundhara,5,8
+Kathmandu,14200000,4,2,2,3.25,13,Soil Stabilized,tokha,5,8
+Kathmandu,5500000,0,0,3,8,13,Soil Stabilized,samakhusi,0,8
+Bhaktapur,1700000,0,0,3,3,15,Soil Stabilized,jagati,0,8
+Lalitpur,3200000,0,0,3,2.045288532,15,Paved,pulchowk,0,8
+Kathmandu,17500000,0,0,3,3.5,13,Soil Stabilized,dhapasi,5,8
+Pokhara,235000000,0,0,1,10,12,Soil Stabilized,archale village,3,8
+Kathmandu,20000000,0,0,2,4,13,Paved,hadigaun,6,8
+Kathmandu,2000000,0,0,3,10,13,Soil Stabilized,chundevi,0,8
+Kathmandu,20000,0,1,3,4.236669102,36,Soil Stabilized,radha bhawan,8,8
+Kathmandu,235000000,0,0,4,3,10,Paved,balaju,8,9
+Kathmandu,3000000,0,0,3,9,9,Paved,gongabu,0,8
+Kathmandu,15000000,2,1,1,5,11,Soil Stabilized,kapan,4,8
+Kathmandu,70000000,13,0,4.5,13,14,Gravelled,maharajgunj,7,8
+Kathmandu,16500000,6,3,3,3.1,10,Paved,baniyatar,5,8
+Kathmandu,53000000,6,4,3,7.5,15,Paved,tokha,7,8
+Kathmandu,3200000,0,0,3,5.5,13,Paved,budhanilkantha,0,8
+Kathmandu,5500000,0,0,3,7,20,Paved,khusibu,0,8
+Kathmandu,3200000,0,0,3,7,15,Soil Stabilized,hattigauda,0,8
+Bhaktapur,1350000,0,0,3,3.2,13,Soil Stabilized,dadikot,0,8
+Kathmandu,3200000,0,0,3,2.2,19.68504,Paved,mulpani,0,8
+Kathmandu,43000000,6,5,3,8,12,Gravelled,tokha,13,8
+Bhaktapur,21500000,9,1,3,6,20,Soil Stabilized,bhaktapur,1,6
+Kathmandu,235000000,0,0,3,4,20,Paved,durbar marg,0,8
+Kathmandu,24500000,4,3,2,3.5,13.12336,Soil Stabilized,chandol,7,9
+Kathmandu,80000000,18,6,4,8,29.52756,Soil Stabilized,maharajgunj,1,22
+Lalitpur,3600000,0,0,3,4,12,Soil Stabilized,lalitpur,0,8
+Kathmandu,3600000,0,0,3,13,10,Gravelled,baluwatar,0,8
+Kathmandu,33500000,0,0,3,5,20,Paved,baluwatar,5,8
+Kathmandu,32000000,9,4,3,5,10,Paved,baniyatar,7,8
+Kathmandu,14000000,0,0,3,2.5,10,Soil Stabilized,jorpati,5,8
+Kathmandu,35000000,10,3,3,4,16,Paved,baniyatar,6,8
+Lalitpur,25500000,4,4,2.5,4.2,14,Gravelled,nakkhu,7,8
+Lalitpur,24000000,12,4,3,4,0,Soil Stabilized,lalitpur,7,8
+Kathmandu,18700000,1,1,3,5.25,7,Soil Stabilized,basundhara,6,8
+Kathmandu,19500,0,0,3,2.337472608,0,Soil Stabilized,radhamarga,0,8
+Lalitpur,16500000,5,3,3,3.5,13,Paved,imadol,6,8
+Kathmandu,235000000,0,0,7,2,20,Paved,ason,2,88
+Kathmandu,750000,0,0,3,4,13,Soil Stabilized,baluwa gaabisa,0,8
+Kathmandu,25000000,0,0,4,3,13,Soil Stabilized,hadigaun,5,8
+Kathmandu,31800000,10,0,3,5.1,14,Paved,sukedhara,6,8
+Kathmandu,2500000,0,0,3,9,15,Soil Stabilized,hattigauda,0,8
+Kathmandu,27500000,0,0,3,4,13,Gravelled,sukedhara,0,8
+Kathmandu,235000000,0,0,3,4,10,Gravelled,joranku,0,8
+Lalitpur,235000000,0,0,3,6,20,Soil Stabilized,lalitpur,0,8
+Kathmandu,26000000,0,0,3,4.1,15,Paved,tokha,6,8
+Kathmandu,9500000,4,0,3,4,15,Soil Stabilized,satungal,4,8
+Kathmandu,15000000,0,0,3,3,13,Paved,kapan,6,8
+Kathmandu,43000,4,3,3,5.843681519,15,Paved,budhanilkantha,5,8
+Kathmandu,150000000,0,0,3.5,6.5,20,Soil Stabilized,next to nmb bank,7,17
+Kathmandu,42500000,5,4,3,5.5,20,Soil Stabilized,budhanilkantha,6,8
+Lalitpur,30000,0,0,3,2.337472608,15,Paved,cancer hospital,7,8
+Bhaktapur,1675000,0,0,3,4.125,31,Soil Stabilized,suryabinayak,0,8
+Kathmandu,6000000,0,0,3,2.045288532,15,Paved,kalimati,0,8
+Kathmandu,60000000,0,0,3,9,13,Soil Stabilized,tokha,5,8
+Kathmandu,40000000,0,0,2.5,6.1,20,Paved,kathmandu,0,8
+Kathmandu,29500000,0,0,3,3.75,0,Soil Stabilized,kalimati,0,8
+Kathmandu,19000000,3,2,2,3.1,24,Paved,sukedhara,6,8
+Kathmandu,7500000,0,0,3,12.5,18,Gravelled,thapathali,0,8
+Kathmandu,32500000,4,3,3,5.5,16,Gravelled,basundhara,6,8
+Lalitpur,44500000,5,5,3,6.5,16,Gravelled,bhaisepati,0,8
+Kathmandu,32000000,5,4,3,5,15,Gravelled,hattigauda,7,8
+Kathmandu,26000000,5,3,3,4.3,12,Paved,basundhara,7,8
+Kathmandu,9500000,4,2,2,3.2,15,Soil Stabilized,nagdhunga,6,8
+Kathmandu,25000000,6,4,3,5,13,Paved,sitapaila,6,8
+Kathmandu,17500000,5,2,3,4,16,Paved,thankot,6,8
+Kathmandu,100000,1,1,4,4,16,Soil Stabilized,chabahil,8,12
+Lalitpur,19900,2,1,3,5,20,Paved,sanepa,1,8
+Lalitpur,2200000,0,1,4,2.92184076,14,Paved,kupondole,0,8
+Kathmandu,6500000,3,1,1,2.5,10,Soil Stabilized,rangasala,4,8
+Kathmandu,850000,0,0,3,4.3,13,Soil Stabilized,swayambhu,0,8
+Kathmandu,1350000,0,0,3,12,14,Soil Stabilized,dakshinkali-1,1,8
+Kathmandu,12500000,3,1,1,3,13,Gravelled,kadaghari,0,8
+Kathmandu,15000,2,1,3,4,8,Soil Stabilized,mulpani,0,7
+Kathmandu,6000000,0,0,3,4.5,13,Soil Stabilized,sankhamul,0,8
+Kathmandu,70000000,7,5,3,15,12,Paved,maharajgunj,7,23
+Bhaktapur,1700000,0,0,3,2.337472608,13,Paved,gatthaghar,0,8
+Lalitpur,14200000,2,1,1,3.5,20,Gravelled,imadol,0,8
+Kathmandu,1000000,0,0,3,2.045288532,13,Paved,koteshwor,0,8
+Kathmandu,2500000,0,0,3,4.5,20,Gravelled,budhanilkantha,0,8
+Kathmandu,2800000,0,0,3,4.875,13,Paved,budhanilkantha,0,8
+Lalitpur,1400000,0,0,3,7,23,Soil Stabilized,thecho,0,8
+Kathmandu,235000000,0,0,3,8.25,12,Paved,sitapaila,0,8
+Kathmandu,30000000,0,0,3,6,10,Soil Stabilized,lazimpat,5,8
+Kathmandu,12800000,2,1,1,3.2,12,Gravelled,budhanilkantha,5,7
+Kathmandu,25000000,0,0,3,5.5,13,Soil Stabilized,manamaiju,5,8
+Kathmandu,12500000,0,0,1,3.25,10,Soil Stabilized,gongabu,4,8
+Kathmandu,4500000,0,0,3,5,15,Soil Stabilized,gongabu,0,8
+Kathmandu,23000000,0,0,3,4,12,Soil Stabilized,dhungedhara,5,8
+Kathmandu,15000000,0,0,3,2,20,Soil Stabilized,chandol,2,8
+Kathmandu,25000000,0,0,3,4,13,Soil Stabilized,budhanilkantha,5,8
+Pokhara,2300000,0,0,3,5,15,Paved,near to ward 11 office,0,8
+Pokhara,235000000,9,10,3,4,20,Gravelled,lekhnath,11,8
+Kathmandu,4500000,0,0,3,9.5625,16,Soil Stabilized,balaju,0,8
+Kathmandu,39000000,9,4,5,3,36.08924,Soil Stabilized,jorpati,5,8
+Bhaktapur,235000000,0,0,3,4,13,Gravelled,bhaktapur,0,6
+Kathmandu,1650000,0,0,3,5.2,20,Soil Stabilized,nayapati gumba,0,8
+Lalitpur,20500000,0,0,3,4,10,Gravelled,nakhipot,7,8
+Kathmandu,2100000,0,0,3,4.2,13,Soil Stabilized,jorpati,0,8
+Kathmandu,2100000,0,0,3,4,13,Gravelled,jorpati,0,8
+Kathmandu,27500000,10,3,3,4.25,13,Paved,budhanilkantha,9,6
+Kathmandu,1650000,0,0,3,4,13,Soil Stabilized,thali,0,8
+Kathmandu,22835000,4,3,3,5,20,Soil Stabilized,balkhu,5,8
+Kathmandu,16500000,9,3,3,3,10,Gravelled,jorpati,7,8
+Kathmandu,2100000,0,0,3,4,13,Soil Stabilized,panchkanyaa school,0,8
+Kathmandu,1600000,0,0,3,4,12,Gravelled,manakamana mandir,0,8
+Kathmandu,32000000,5,4,3,5.25,13,Paved,budhanilkantha,13,6
+Lalitpur,42000000,6,5,4,11,0,Paved,dhapakhel,15,14
+Lalitpur,50000,3,2,2,4.5,25,Paved,kupondole,2,67
+Kathmandu,66000000,0,0,3,8.3,40,Paved,budhanilkantha,6,8
+Lalitpur,1850000,0,0,3,4,20,Soil Stabilized,thaiba,0,8
+Kathmandu,1200000,0,0,3,4,20,Soil Stabilized,chandragiri,0,8
+Kathmandu,17000000,4,3,3,3.1,13,Paved,dhapasi,7,8
+Kathmandu,13000000,3,3,2,3.2,13,Paved,budhanilkantha,0,8
+Bhaktapur,1500000,0,0,3,5.5,20,Paved,nagarkot,0,8
+Bhaktapur,19500000,10,0,4,3.5,20,Soil Stabilized,kausaltar,6,8
+Kathmandu,2900000,0,0,3,3.5,10,Gravelled,vens school,0,8
+Kathmandu,4500000,0,0,3,9.5625,16,Paved,balaju,0,8
+Bhaktapur,1000000,0,0,3,15,12,Soil Stabilized,bhaktapur,0,8
+Kathmandu,1100000,0,0,3,14,8,Soil Stabilized,chandragiri,0,8
+Kathmandu,55000000,2,3,3,9.934258583,0,Soil Stabilized,kamalpokhari,10,8
+Lalitpur,2250000,0,0,3,4,13,Soil Stabilized,mahalaxmi nagarpalika,0,8
+Kathmandu,22500000,3,4,3,5.200876552,20,Soil Stabilized,chandol,8,8
+Kathmandu,30000000,3,3,3,4.032140248,36.08924,Soil Stabilized,panipokhari,6,8
+Kathmandu,20000000,3,3,3,4.38276114,0,Soil Stabilized,swayambhu,4,8
+Kathmandu,6500000,0,0,3,5,20,Paved,minbhawan,0,8
+Kathmandu,6700000,0,0,3,12,12,Soil Stabilized,naya bazar,0,8
+Kathmandu,2500000,0,0,3,12,13,Soil Stabilized,pasikot,0,8
+Lalitpur,2600000,0,0,3,12,26,Soil Stabilized,mahalaxmisthan,0,8
+Lalitpur,2600000,0,0,3,5,13,Soil Stabilized,bhaisepati,0,8
+Kathmandu,65000000,5,6,3,12,13,Soil Stabilized,maligaon,0,8
+Kathmandu,28000000,6,4,3,6.5,13,Soil Stabilized,makalbari,0,8
+Kathmandu,23000000,4,3,3,5.625,20,Soil Stabilized,sitapaila,5,8
+Lalitpur,35000000,5,4,3,3,20,Soil Stabilized,jhamsikhel,6,8
+Lalitpur,70000000,5,5,3,10,13,Soil Stabilized,bhaisepati,21,8
+Kathmandu,80000000,6,7,3,14.75,13,Soil Stabilized,hattigauda,0,8
+Lalitpur,22500000,7,4,3,3.3,13,Soil Stabilized,imadol,0,8
+Lalitpur,60000000,5,5,3,10,20,Soil Stabilized,khumaltar,6,8
+Pokhara,170000000,5,8,3,32,26.24672,Soil Stabilized,pokhara,6,8
+Kathmandu,22700000,5,2,3,3.5,12,Gravelled,thulo bharyang,6,8
+Kathmandu,19800000,9,0,3,3.5,12,Gravelled,basundhara,6,8
+Kathmandu,33500000,7,3,3,6,14,Soil Stabilized,raniban,6,8
+Kathmandu,52500000,0,0,3,5,0,Soil Stabilized,baneshwor,7,8
+Lalitpur,15100000,0,0,2,3.2,0,Soil Stabilized,nakhipot,5,8
+Kathmandu,25000000,6,4,3,4.5,13,Soil Stabilized,budhanilkantha,6,8
+Kathmandu,17000000,4,4,3,3.1,0,Soil Stabilized,sitapaila,6,8
+Lalitpur,1700000,0,0,3,3.506208912,0,Soil Stabilized,imadol,0,8
+Kathmandu,3500000,0,0,3,2.92184076,0,Soil Stabilized,jorpati,0,8
+Kathmandu,25500000,5,2,3,3.3125,0,Soil Stabilized,samakhusi,6,8
+Kathmandu,22500000,0,0,3,3.5,0,Soil Stabilized,gongabu,6,8
+Kathmandu,34500000,10,0,3,4.2,19.68504,Soil Stabilized,samakhusi,7,8
+Kathmandu,2100000,0,0,3,6,22,Soil Stabilized,kirtipur,0,8
+Kathmandu,15000,0,0,1,6.948137327,42,Paved,jamal,0,8
+Bhaktapur,2500000,0,0,3,10.875,20,Soil Stabilized,bode,0,8
+Kathmandu,4000000,0,0,3,5,20,Soil Stabilized,kalanki,0,8
+Kathmandu,50000,3,2,3,4,0,Soil Stabilized,sanobharyang,5,8
+Kathmandu,1300000,0,0,3,2.337472608,0,Soil Stabilized,koteshwor,1,8
+Kathmandu,650000,0,0,3,2.92184076,0,Soil Stabilized,samakhusi,0,8
+Kathmandu,450000,0,0,3,3.506208912,0,Soil Stabilized,kalopul,0,8
+Kathmandu,52500000,5,4,3,15,13,Gravelled,sukedhara,9,8
+Kathmandu,2100000,0,0,3,3,20,Soil Stabilized,kadaghari,0,8
+Kathmandu,6000000,0,0,3,4.38276114,0,Soil Stabilized,old baneshwor,2,8
+Lalitpur,5860000,0,0,3,4.1875,26.24672,Gravelled,lubhu,0,8
+Kathmandu,60000,2,1,3,3.506208912,0,Soil Stabilized,thamel,5,8
+Lalitpur,40000,2,2,3,2.629656684,0,Soil Stabilized,dhobighat,6,8
+Kathmandu,40000,3,1,3,3.506208912,0,Soil Stabilized,lazimpat,0,8
+Kathmandu,3400000,0,0,3,7,20,Soil Stabilized,narephate,0,8
+Kathmandu,20500000,7,5,3,5,14,Gravelled,balambu,8,8
+Kathmandu,5700000,0,0,3,5.5,24,Soil Stabilized,chandol,0,8
+Lalitpur,39077000,4,4,3,8.5,16,Paved,bhaisepati,7,6
+Lalitpur,37500000,6,5,4,5,13,Soil Stabilized,khumaltar,0,8
+Lalitpur,25000,2,1,3,2.337472608,13,Gravelled,pulchowk,3,8
+Kathmandu,31000000,8,3,4,4,14,Gravelled,chundevi,6,8
+Lalitpur,27000000,5,3,3,3.375,22,Paved,ekantakuna,5,8
+Lalitpur,22000,2,1,1,6,13,Soil Stabilized,satdobato,2,8
+Lalitpur,21500000,0,0,3,4.5,10,Soil Stabilized,dhapakhel,5,8
+Bhaktapur,25500000,0,0,4,5,10,Soil Stabilized,lokanthali,5,8
+Kathmandu,45000,4,4,3,3.5,19.68504,Soil Stabilized,mulpani,6,8
+Kathmandu,85000,3,3,3,8,12,Soil Stabilized,old baneshwor,6,8
+Kathmandu,2400000,0,0,3,6,20,Gravelled,budhanilkantha,0,8
+Lalitpur,40000000,4,2,3,8,20,Soil Stabilized,dhobighat,6,8
+Kathmandu,3300000,0,0,3,10,10,Paved,samakhusi,0,8
+Kathmandu,20000000,0,0,3,4.2,12,Gravelled,kapan,7,8
+Kathmandu,32500000,0,0,3,6.875,13,Gravelled,tokha,6,8
+Kathmandu,100000,5,2,3,8,15,Soil Stabilized,maharajgunj,5,8
+Lalitpur,70000,6,4,3,3.5,13,Soil Stabilized,nakkhu,6,8
+Kathmandu,45000000,0,0,3,8,20,Gravelled,budhanilkantha,6,8
+Lalitpur,100000,0,0,3,8,13,Soil Stabilized,nakhipot,6,8
+Kathmandu,21500000,4,3,3,4,13.12336,Paved,budhanilkantha,5,8
+Kathmandu,1200000,0,0,3,11,13,Soil Stabilized,budhanilkantha,0,8
+Lalitpur,125000,4,3,3,6.135865595,13,Soil Stabilized,kumaripati,6,8
+Lalitpur,150000,3,4,2,8,0,Soil Stabilized,sanepa,6,8
+Lalitpur,55000,5,2,3,3.5,13,Soil Stabilized,bhaisepati,5,8
+Kathmandu,3300000,0,0,3,4,20,Soil Stabilized,maharajgunj,0,8
+Kathmandu,150000,5,5,3,7,15,Soil Stabilized,baluwatar,6,8
+Kathmandu,70000000,0,0,3,16,20,Paved,bhairav,7,8
+Lalitpur,200000,5,5,3,5.5,15,Soil Stabilized,bhaisepati,8,8
+Kathmandu,47500000,0,0,3,8,16,Gravelled,budhanilkantha,7,8
+Lalitpur,150000,5,4,3,13,13,Soil Stabilized,bhaisepati,6,8
+Lalitpur,180000,0,0,3,15,15,Soil Stabilized,dhobighat,6,8
+Kathmandu,25000000,3,3,3,5.259313367,0,Soil Stabilized,baluwatar,6,8
+Kathmandu,45000000,4,4,3,10.81081081,0,Soil Stabilized,bishal nagar,4,8
+Kathmandu,45000000,4,4,3,10.81081081,0,Soil Stabilized,bishal nagar,4,8
+Kathmandu,35000000,3,3,3,7.158509861,0,Soil Stabilized,kamalpokhari,6,8
+Kathmandu,11400000,0,0,1,3,13,Gravelled,jorpati,5,8
+Kathmandu,11400000,0,0,3,2.5625,10,Soil Stabilized,gopikrishna flim hall,6,8
+Kathmandu,1750000,0,0,3,3,32,Soil Stabilized,silvershine school,0,8
+Kathmandu,4800000,0,0,3,8,15,Soil Stabilized,baluwatar,0,8
+Kathmandu,12000000,4,0,1,3.2,12,Soil Stabilized,jorpati,0,8
+Bhaktapur,366666,0,0,3,3,13,Soil Stabilized,changunarayan,0,8
+Kathmandu,180000000,0,0,3,48,13,Soil Stabilized,maharajgunj,9,8
+Kathmandu,1500000,0,0,3,3.8125,20,Soil Stabilized,chovar,0,8
+Kathmandu,2700000,0,0,3,4.2,12,Soil Stabilized,budhanilkantha,0,8
+Bhaktapur,1050000,0,0,3,14,20,Soil Stabilized,bhaktapur,0,8
+Lalitpur,14500000,10,0,3,3.1,10,Soil Stabilized,tikathali,6,8
+Kathmandu,36500000,3,4,3,4,13,Soil Stabilized,maharajgunj,6,8
+Kathmandu,220000,2,3,3,11.97954711,0,Soil Stabilized,lazimpat,6,8
+Kathmandu,1300000,0,0,3,4,8,Soil Stabilized,kapan,0,8
+Kathmandu,2000000,0,0,3,9,16,Paved,bhangal,0,8
+Kathmandu,1400000,0,0,3,4,10,Soil Stabilized,sankhu,0,8
+Kathmandu,24000000,7,0,3,4,16,Soil Stabilized,kapan,6,8
+Kathmandu,20400000,11,0,3,4,20,Paved,kapan,6,8
+Pokhara,27000000,0,0,2,4.5,20,Soil Stabilized,pokhara,0,8
+Pokhara,30000000,0,0,3,4,20,Soil Stabilized,ram bazar,0,8
+Pokhara,35000000,0,0,4,7,15,Soil Stabilized,pokhara,0,8
+Kathmandu,700000,0,0,3,4.2,32,Soil Stabilized,kapan,0,8
+Lalitpur,1400000,0,0,3,4.9375,13,Soil Stabilized,sunakothi,0,8
+Kathmandu,35700000,0,0,3,8.5,12,Soil Stabilized,shantinagar,0,8
+Kathmandu,1100000,0,0,3,3.2,20,Soil Stabilized,kapan,0,8
+Kathmandu,16000000,7,6,5,3.1,14,Gravelled,mulpani,7,8
+Kathmandu,2700000,0,0,3,4,20,Soil Stabilized,kapan,0,8
+Lalitpur,9000000,4,1,1,3.2,10,Soil Stabilized,tikathali,2,8
+Kathmandu,13000000,2,1,3,4,15,Soil Stabilized,tokha,4,8
+Kathmandu,1800000,0,0,3,6,26,Soil Stabilized,tarkeshwor,0,8
+Kathmandu,1600000,0,0,3,4,26,Soil Stabilized,tarkeshwor,0,8
+Pokhara,25000000,0,0,3,5,20,Gravelled,ram bazar,5,8
+Kathmandu,45000,3,4,3,3.6,20,Soil Stabilized,bafal,6,8
+Bhaktapur,1800000,0,0,3,3.2,20,Soil Stabilized,dadikot,0,8
+Kathmandu,19500000,3,3,3,2.75,12,Paved,basundhara,7,7
+Kathmandu,17000000,4,3,3,3.2,13,Paved,kapan,5,8
+Kathmandu,100000,6,4,3,14,13,Soil Stabilized,balaju,5,8
+Kathmandu,150000,4,4,3,10,14,Soil Stabilized,sanobharyang,7,8
+Kathmandu,38000000,10,0,3,7,10,Soil Stabilized,dhumbarahi,5,8
+Lalitpur,130000,5,3,3,8,13.12336,Soil Stabilized,bhaisepati,7,8
+Kathmandu,110000,4,4,3,12,12,Soil Stabilized,sukedhara,7,8
+Kathmandu,25000,0,0,3,4,0,Soil Stabilized,teku,1,8
+Kathmandu,20000000,1,1,3,3.5,13,Soil Stabilized,kathmandu,7,7
+Lalitpur,25000000,3,3,2,5.5,0,Soil Stabilized,thaiba,9,8
+Lalitpur,120000,5,3,3,11.5,20,Soil Stabilized,bhaisepati,7,8
+Lalitpur,160000,4,6,3,7.304601899,15,Soil Stabilized,bakhundol,6,8
+Nawalparasi,260000,0,0,3,5,20,Gravelled,nawalparasi,0,8
+Kathmandu,270000,14,6,3,13,20,Soil Stabilized,tinkune,4,8
+Lalitpur,144000,3,4,3,3.75,15,Soil Stabilized,sanepa,7,8
+Lalitpur,80000,5,4,3,5,13,Soil Stabilized,hattiban,4,8
+Kathmandu,125000,0,5,3,4.5,13,Soil Stabilized,hadigaun,4,8
+Kathmandu,200000,7,5,3,7,13,Soil Stabilized,naxal,0,8
+Lalitpur,125000,21,18,3,6.5,12,Soil Stabilized,sanepa,6,8
+Kathmandu,17500000,6,2,3,3.5,12,Soil Stabilized,pasikot,5,8
+Kathmandu,4400000,0,0,3,3.375,12,Soil Stabilized,samakhusi,0,8
+Kathmandu,25000000,4,3,3,4,13,Soil Stabilized,bhangal,6,8
+Kathmandu,59900000,5,0,3,16,26,Gravelled,golfutar,11,8
+Kathmandu,29900000,10,0,3,4.1,0,Soil Stabilized,budhanilkantha,6,8
+Kathmandu,4200000,0,0,3,8,13,Soil Stabilized,dhumbarahi,0,8
+Kathmandu,55000000,0,0,2,8.2,24,Gravelled,baneshwor,7,8
+Kathmandu,26500000,4,0,3,4.5,13,Gravelled,bafal,6,8
+Kathmandu,32500000,8,6,3,4.375,13,Gravelled,pipalbot,7,8
+Kathmandu,6000000,0,0,3,6,10,Gravelled,samakhusi,0,8
+Kathmandu,4500000,0,0,3,11,26,Gravelled,baluwatar,0,8
+Kathmandu,21500000,7,4,4,3.4375,14,Gravelled,makalbari,5,8
+Kathmandu,5000000,0,0,3,6,12,Soil Stabilized,lazimpat,0,8
+Kathmandu,5000000,0,0,3,8,12,Soil Stabilized,lazimpat,0,8
+Kathmandu,2800000,0,0,3,4.5,13,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,38000000,8,4,4,7,15,Soil Stabilized,mhepi,5,8
+Kathmandu,2500000,0,0,3,12,12,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,25000000,7,3,4,4.75,12,Soil Stabilized,dhapasi,6,8
+Kathmandu,3200000,0,0,3,6,10,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,2400000,0,0,3,15,11,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,24000000,15,5,4,3,20,Soil Stabilized,dallu,5,8
+Kathmandu,3200000,0,0,3,6,14,Gravelled,basundhara,0,8
+Kathmandu,4200000,0,0,3,7,13,Gravelled,samakhusi,0,8
+Kathmandu,480000,0,0,3,5,15,Soil Stabilized,basundhara,0,8
+Kathmandu,17000000,8,4,4,3.5,20,Gravelled,tokha,6,8
+Kathmandu,3000000,0,0,3,5.2,15,Gravelled,samakhusi,0,8
+Kathmandu,3250000,0,0,3,4,12,Gravelled,samakhusi,0,8
+Kathmandu,3700000,0,0,3,10,10,Gravelled,samakhusi,0,8
+Kathmandu,26000000,5,3,3,4.3,16,Soil Stabilized,gongabu,7,8
+Kathmandu,29000000,6,3,3,4,14,Soil Stabilized,budhanilkantha,6,8
+Kathmandu,13500000,3,2,3,3.3125,12,Soil Stabilized,kalanki,5,8
+Kathmandu,22800000,6,2,3,4,20,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,6000000,0,0,3,6.5,15,Soil Stabilized,samakhusi,0,8
+Kathmandu,27500000,6,4,4,4,12,Soil Stabilized,sukedhara,5,8
+Kathmandu,22500000,4,3,3,3.13,12,Soil Stabilized,mandikatar,5,8
+Kathmandu,15500000,7,2,3,3.5,13,Soil Stabilized,kalanki,6,8
+Kathmandu,30000000,5,0,3,6.5,15,Soil Stabilized,hattigauda,7,8
+Kathmandu,51500000,6,3,3,6,12,Soil Stabilized,baluwatar,6,8
+Kathmandu,33000000,11,0,3,5,15,Soil Stabilized,sukedhara,8,8
+Kathmandu,40000000,12,0,4,7,13,Soil Stabilized,dhumbarahi,7,8
+Kathmandu,18200000,9,0,3,3.1,13,Soil Stabilized,bhangal,6,8
+Kathmandu,17700000,12,0,4,3.5,13,Soil Stabilized,budhanilkantha,7,8
+Kathmandu,17000000,7,0,3,3,13,Soil Stabilized,kapan,6,8
+Kathmandu,29800000,10,0,3,6,13,Soil Stabilized,budhanilkantha,6,8
+Kathmandu,21000000,9,0,3,3.5,13,Soil Stabilized,budhanilkantha,6,8
+Kathmandu,34000000,6,3,3,6,13,Soil Stabilized,budhanilkantha,6,8
+Kathmandu,1450000,0,0,3,4,20,Soil Stabilized,kageshwari-manohara,0,8
+Kathmandu,2150000,0,0,3,4,12,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,19900000,3,3,3,3,12,Soil Stabilized,basundhara,6,8
+Kathmandu,16800000,10,0,3,3,13,Soil Stabilized,budhanilkantha,7,8
+Kathmandu,63000000,9,4,4,12.875,13,Soil Stabilized,basbari,8,8
+Lalitpur,12500000,3,2,3,3,10,Soil Stabilized,dhapakhel,7,8
+Kathmandu,14200000,5,2,2,3.625,13,Soil Stabilized,balaju,6,8
+Lalitpur,20000000,5,4,3,3.0625,16,Soil Stabilized,satdobato,7,8
+Kathmandu,19500000,5,3,3,3.2,13,Soil Stabilized,sunderbasti,6,8
+Kathmandu,21000000,4,2,2,3.1,18,Soil Stabilized,swayambhu,7,8
+Kathmandu,100000000,5,2,3,10.1,20,Soil Stabilized,kalikasthan,6,8
+Kathmandu,22500000,6,4,4,3.0625,10,Soil Stabilized,samakhusi,7,8
+Kathmandu,37000000,5,4,3,4,12,Soil Stabilized,chabahil,7,8
+Kathmandu,19000000,4,3,3,3.875,20,Soil Stabilized,ramkot,9,8
+Kathmandu,45000000,5,5,3,9,12,Soil Stabilized,sitapaila,7,8
+Kathmandu,16500000,6,3,3,4,12,Soil Stabilized,tarkeshwor,6,8
+Kathmandu,88000000,0,0,3,15.625,20,Soil Stabilized,sukedhara,6,8
+Kathmandu,29000000,10,6,5,4.2,10,Soil Stabilized,gongabu,6,8
+Kathmandu,55000000,0,0,4,7,20,Soil Stabilized,pokhari,6,8
+Kathmandu,36000000,6,4,3.5,3.2,13,Soil Stabilized,kadaghari,7,8
+Kathmandu,24000000,10,6,3,3.2,13,Soil Stabilized,pepsicola,6,8
+Kathmandu,12000000,4,1,1,3,13,Soil Stabilized,kadaghari,5,8
+Kathmandu,8500000,0,0,3,6.9375,20,Soil Stabilized,balaju,0,8
+Kathmandu,45000000,12,4,4,4.125,0,Soil Stabilized,balaju,6,8
+Kathmandu,15000000,3,3,3,3.2,10,Soil Stabilized,joranku,6,8
+Kathmandu,1000000,0,0,3,7,26,Soil Stabilized,tarkeshwor,0,8
+Kathmandu,20000000,4,2,3,5,13,Soil Stabilized,sitapaila,7,8
+Lalitpur,16000000,4,4,3,3,13,Soil Stabilized,imadol,5,7
+Kathmandu,37500000,4,4,6,2.875,12,Soil Stabilized,thamel,7,8
+Kathmandu,31000000,9,9,4,2.2,9,Soil Stabilized,gongabu,5,8
+Kathmandu,20500000,5,4,3,2.2,16,Soil Stabilized,samakhusi,6,8
+Kathmandu,26000000,4,5,3,4.125,12,Soil Stabilized,sano bharyang,6,8
+Kathmandu,120000,2,2,3,3.214024836,16,Soil Stabilized,naxal,8,8
+Lalitpur,7500000,2,2,1,2.337472608,24,Soil Stabilized,bhaisepati,6,8
+Kathmandu,100000,2,2,1,2.92184076,20,Soil Stabilized,panipokhari,8,8
+Kathmandu,17500000,3,3,3,4.622352082,20,Soil Stabilized,lazimpat,6,8
+Kathmandu,5500000,0,0,3,7.5,19.68504,Soil Stabilized,old baneshwor,0,8
+Kathmandu,110000,2,2,3,3.214024836,13,Soil Stabilized,durbar marg,9,8
+Lalitpur,25000000,4,3,3,4.75,13,Soil Stabilized,dhapakhel,8,10
+Kathmandu,28500000,3,3,2,5.25,18,Soil Stabilized,budhanilkantha,10,9
+Lalitpur,2400000,0,0,3,6,16,Soil Stabilized,bhaisepati colony,0,8
+Kathmandu,3500000,0,0,3,5,16,Soil Stabilized,dhungedhara,0,8
+Lalitpur,14500000,4,3,2,5.1875,13,Soil Stabilized,sarbotchrit school,10,8
+Kathmandu,27500000,6,4,3,5.1875,13,Soil Stabilized,sunderbasti,10,8
+Kathmandu,2600000,0,0,3,4,13,Soil Stabilized,padma colony,0,8
+Kathmandu,120000,3,2,10,3.798392988,20,Soil Stabilized,bishal nagar,0,8
+Kathmandu,150000,2,2,4,3.506208912,15,Soil Stabilized,swayambhu,0,8
+Kathmandu,55000000,2,3,3,9.934258583,20,Soil Stabilized,kamalpokhari,9,8
+Lalitpur,40000,2,1,3,2.19138057,15,Soil Stabilized,jhamsikhel,5,8
+Lalitpur,16500000,3,2,10,3.944485026,20,Soil Stabilized,dhobighat,0,8
+Kathmandu,125000,5,2,2,10,13,Soil Stabilized,baneshwor,5,6
+Lalitpur,250000,5,3,3,13,20,Soil Stabilized,radio tower,13,7
+Kathmandu,65000000,5,6,3,12,13,Soil Stabilized,maligaon,9,8
+Kathmandu,235000000,10,10,3,33,16,Soil Stabilized,bhatbhateni,9,8
+Kathmandu,4500000,0,0,3,13,20,Soil Stabilized,kalanki,0,8
+Kathmandu,47500000,10,6,3,3.0625,36.08924,Soil Stabilized,teaching hospital,7,8
+Lalitpur,950000,0,0,3,10,24,Soil Stabilized,godawari,0,8
+Kathmandu,35000000,10,4,3,4.5,20,Soil Stabilized,chabahil,0,8
+Lalitpur,2000000,0,0,3,5.3125,14,Soil Stabilized,tikathali,0,8
+Kathmandu,2500000,0,0,3,3.9375,14,Soil Stabilized,satungal,0,8
+Lalitpur,60000,3,3,3,4.5,16,Soil Stabilized,bhaisepati,6,8
+Lalitpur,55000,3,2,3,3.798392988,20,Soil Stabilized,hattiban,6,8
+Kathmandu,20000000,5,3,3,3.75,20,Soil Stabilized,syuchatar,6,8
+Kathmandu,25000000,3,4,4,8.765522279,13,Soil Stabilized,tripureshwor,6,8
+Kathmandu,49500000,7,7,3,9,10,Soil Stabilized,balkhu,7,8
+Kathmandu,18000000,4,4,2,6,20,Soil Stabilized,kirtipur,5,8
+Kathmandu,6000000,0,0,3,9.5,20,Soil Stabilized,baneshwor,0,8
+Lalitpur,2650000,0,0,3,8,13,Soil Stabilized,bhaisepati,0,8
+Kathmandu,43500000,6,0,3,3.5625,20,Soil Stabilized,hattisar,5,8
+Bhaktapur,35000000,14,4,3,7.1,14,Soil Stabilized,lokanthali,5,8
+Kathmandu,60000000,0,0,3,12,13,Soil Stabilized,ravi bhawan,5,8
+Kathmandu,13000000,4,2,3,4.8,16,Soil Stabilized,swayambhu,0,8
+Kathmandu,2700000,0,0,3,7.3,13,Soil Stabilized,kalanki,0,8
+Kathmandu,2100000,0,0,3,6,22,Soil Stabilized,kirtipur,0,8
+Kathmandu,38000000,7,4,3,6.1,14,Soil Stabilized,kalanki,7,8
+Kathmandu,3700000,0,0,3,3.25,16,Soil Stabilized,tahachal,0,8
+Lalitpur,2800000,0,0,3,7.1,20,Soil Stabilized,hattiban,0,8
+Kathmandu,70000000,3,4,2,12.25,20,Soil Stabilized,thulo bharyang,5,8
+Kathmandu,41500000,8,7,3,8.25,14,Soil Stabilized,kalanki,0,8
+Bhaktapur,22500000,12,4,3,4,20,Soil Stabilized,dadikot,0,8
+Kathmandu,5500000,0,0,3,7,20,Soil Stabilized,hattigauda,0,8
+Kathmandu,40100000,5,2,2,4.9375,14,Soil Stabilized,thapathali,6,8
+Kathmandu,1800000,0,0,3,15,16,Soil Stabilized,hattigauda,0,8
+Kathmandu,13000000,0,0,3,12.25,17,Soil Stabilized,durbar marg,0,8
+Kathmandu,2500000,0,0,3,6,12,Soil Stabilized,hattigauda,0,8
+Kathmandu,16500000,5,3,3,3,10,Soil Stabilized,mulpani,7,9
+Kathmandu,4800000,0,0,3,12.25,12,Soil Stabilized,baluwatar,0,8
+Lalitpur,6800000,0,0,3,6,15,Soil Stabilized,sanepa,0,8
+Kathmandu,95000,2,2,3,2.92184076,20,Soil Stabilized,bishal nagar,0,8
+Kathmandu,55000000,0,0,2,5.25,20,Soil Stabilized,dhumbarahi,0,8
+Kathmandu,6000000,0,0,3,4,12,Soil Stabilized,chundevi,0,8
+Kathmandu,270000,0,0,3,5.843681519,20,Soil Stabilized,nag pokhari,0,8
+Kathmandu,2600000,0,0,3,4,20,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,2500000,0,0,3,5,12,Soil Stabilized,budhanilkantha,0,8
+Kathmandu,26000000,4,3,3,6.25,15,Soil Stabilized,dhapasi,6,8
+Kathmandu,5100000,0,0,3,3.5,13,Soil Stabilized,putalisadak,0,8
+Lalitpur,33000000,8,7,3.5,7.1,10,Soil Stabilized,harisiddhi,10,7
+Kathmandu,45000,4,3,2,4,0,Soil Stabilized,grande villa,5,8
+Kathmandu,525000,5,5,3,8.765522279,16,Soil Stabilized,baluwatar,7,8
+Kathmandu,55000,0,2,2,5.843681519,15,Soil Stabilized,hattigauda,5,8
+Kathmandu,55000000,4,4,2,7.5,13,Soil Stabilized,hattigauda,12,16
+Pokhara,3500000,0,0,3,8.473338203,20,Soil Stabilized,tika resort,4,8
+Kathmandu,5500000,0,0,3,11,13,Soil Stabilized,ravi bhawan,0,8
+Kathmandu,4500000,0,0,3,7,13,Soil Stabilized,chandol,0,8
+Kathmandu,100000,6,3,5,7.5,20,Soil Stabilized,kalanki,16,15
+Pokhara,235000000,0,0,3,48,25,Soil Stabilized,lakeside,0,8
+Kathmandu,235000000,0,0,3,22,19.68504,Soil Stabilized,thamel,0,8
+Kathmandu,110000000,0,13,5,11,23,Soil Stabilized,pepsicola,2,9
+Pokhara,235000000,0,0,3,30,36.08924,Soil Stabilized,lakeside,0,8
+Lalitpur,1000001,0,0,3,5.843681519,29.52756,Soil Stabilized,nepal cancer hospital,0,8
+Kathmandu,15000000,0,0,3,9,36.08924,Soil Stabilized,lazimpat,0,8
+Lalitpur,2800000,0,0,3,8,24,Soil Stabilized,hattiban,0,8
+Lalitpur,100000,7,3,3,8,15,Soil Stabilized,sanepa,10,8
+Lalitpur,75000,5,5,3,9,13,Soil Stabilized,khumaltar,10,70
+Kathmandu,1600000,0,0,3,3.5,13,Soil Stabilized,mulpani,0,8
+Kathmandu,875000,0,0,3,4,13,Soil Stabilized,mulpani,0,8
+Kathmandu,2000000,0,0,3,4.625,10,Soil Stabilized,gothatar,0,8
+Kathmandu,2200000,0,0,3,7,18,Soil Stabilized,kadaghari,0,8
+Kathmandu,4500000,0,0,3,4.5,19.68504,Soil Stabilized,pepsicola,0,8
+Kathmandu,110000000,4,6,2.5,17.3,20,Paved,budhanilkantha,16,8
+Kathmandu,62500000,5,4,3,15,13,Soil Stabilized,budhanilkantha,15,22
+Kathmandu,5200000,0,0,3,13,18,Soil Stabilized,baneshwor,2,8
+Bhaktapur,35000000,6,3,3,7.5,18,Soil Stabilized,lokanthali,11,32
+Kathmandu,36500000,4,5,3,11.75,18,Soil Stabilized,budhanilkantha,13,7
+Kathmandu,26000000,5,5,3,5,15,Soil Stabilized,narayanthan,10,8
+Kathmandu,11000000,4,1,3,3.5,15,Soil Stabilized,bisnumati pool,5,8
+Kathmandu,19000000,8,2,3,4,15,Soil Stabilized,manamaiju,4,8
+Kathmandu,25000000,5,5,3,5,15,Soil Stabilized,narayanthan,11,8
+Kathmandu,20000000,12,4,3,5,15,Soil Stabilized,mahanagarpalika,8,8
+Kathmandu,15000000,0,0,3,4,0,Soil Stabilized,thamel,0,8
+Kathmandu,29000000,7,5,3,5,12,Soil Stabilized,pasikot,7,7
+Kathmandu,2200000,0,0,3,4.75,13,Soil Stabilized,chapali,0,8
+Kathmandu,1850000,0,0,3,6,0,Soil Stabilized,budhanilkantha,0,8
+Lalitpur,3500000,0,0,3,5,13,Soil Stabilized,bhaisepati,0,8
+Kathmandu,6000000,0,0,3,8.25,16,Soil Stabilized,baneshwor,0,8
+Lalitpur,29000000,3,2,3,4.25,15,Soil Stabilized,bhaisepati,12,7
+Lalitpur,3800000,0,0,3,5,13,Soil Stabilized,bhaisepati,0,8
+Lalitpur,5500000,0,0,3,5,0,Soil Stabilized,bhaisepati,0,8
+Lalitpur,5500000,0,0,3,6,0,Soil Stabilized,bhaisepati,0,8
+Lalitpur,5500000,0,0,3,4,0,Soil Stabilized,bhaisepati,0,8
+Lalitpur,5500000,0,0,3,8,20,Soil Stabilized,bhaisepati,1,8
+Lalitpur,25000000,6,3,3,5,10,Soil Stabilized,kathmandu,2,8
+Lalitpur,40000000,6,4,3,12,10,Soil Stabilized,near godawari village resort,7,13
+Kathmandu,4500000,0,0,3,6.5,20,Soil Stabilized,bhatbhateni,0,8
+Kathmandu,700000,0,0,3,5.375,13,Soil Stabilized,kavresthali,0,8
+Pokhara,30000000,5,4,3,6,18,Soil Stabilized,pokhara,3,8
+Pokhara,80000000,5,6,3,12,0,Soil Stabilized,pokhara,0,17
+Pokhara,25000000,0,0,3,14,14,Soil Stabilized,raam bazar,0,8
+Kathmandu,18000000,4,2,3,3.5,13,Soil Stabilized,dada pauwa,1,8
+Lalitpur,23000000,7,3,3,5.625,16,Soil Stabilized,hattiban,0,8
+Kathmandu,35000000,0,0,3,11,20,Soil Stabilized,kathmandu,4,8
+Kathmandu,35000000,11,6,3,7,20,Soil Stabilized,baluwatar,0,8
+Kathmandu,45000000,6,4,3,4,30,Soil Stabilized,baneshwor,0,8
+Kathmandu,29500000,4,3,3,5,20,Soil Stabilized,sitapaila,2,8
+Lalitpur,21000000,10,5,3,4.5,16,Soil Stabilized,bhaisepati,1,8
+Lalitpur,28000000,12,5,3,4.5,13,Soil Stabilized,bhaisepati,1,8
+Kathmandu,200000,4,5,3,10.51862673,0,Soil Stabilized,lazimpat,13,15
+Kathmandu,170000000,0,0,3,7,30,Soil Stabilized,jamal,0,8
+Kathmandu,11700000,0,0,3,3.3125,12,Soil Stabilized,sitapaila,0,8
+Kathmandu,4000000,0,0,3,6,20,Soil Stabilized,pepsicola,0,8
+Kathmandu,4000000,0,0,3,4.625,20,Soil Stabilized,pepsicola,0,8
+Kathmandu,11000000,3,2,6,3.903579255,20,Soil Stabilized,pepsicola,8,11
+Kathmandu,2500000,0,0,3,4.625,26.24672,Soil Stabilized,gothatar,0,8
+Kathmandu,32500000,0,0,5,3,25,Soil Stabilized,maitidevi,10,8
+Lalitpur,140000000,5,4,4,32,20,Soil Stabilized,nakhipot,13,8
+Kathmandu,105000000,4,5,3,32,20,Soil Stabilized,budhanilkantha,13,8
+Kathmandu,2700000,0,0,3,7.125,12,Soil Stabilized,budhanilkantha,2,8
+Kathmandu,12000000,4,2,2,2.5,13,Soil Stabilized,sitapaila,4,8
+Kathmandu,27000000,5,3,2,8,12,Soil Stabilized,budhanilkantha,4,11
+Kathmandu,72500000,5,2,3,13,12,Soil Stabilized,baluwatar,5,8

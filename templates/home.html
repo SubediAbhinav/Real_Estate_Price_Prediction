@@ -1,0 +1,104 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<!-- Hero Section -->
+<section class="hero-section d-flex align-items-center" style="min-height: 85vh; background: linear-gradient(135deg, #e6f0ff, #f9f7fc);">
+  <div class="container">
+    <div class="row align-items-center">
+      <!-- Left Content -->
+      <div class="col-lg-6 mb-5 mb-lg-0">
+        <h1 class="display-4 fw-bold lh-sm text-dark">Predict House Prices with Confidence</h1>
+        <p class="lead text-secondary mt-3">
+          A modern, data-driven estimator built on robust machine learning models.
+          Sign in, provide property details, and receive an instant, reliable valuation.
+        </p>
+        <div class="mt-4 d-flex flex-wrap gap-3">
+          {% if current_user.is_authenticated %}
+            <a href="{{ url_for('predict.step1') }}" class="btn btn-primary btn-lg px-4 shadow-sm">Predict Price</a>
+          {% else %}
+            <a href="{{ url_for('auth.register') }}" class="btn btn-accent btn-lg px-4 shadow-sm">Get Started</a>
+            <a href="{{ url_for('auth.login') }}" class="btn btn-outline-primary btn-lg px-4 shadow-sm">Login</a>
+          {% endif %}
+        </div>
+        <div class="d-flex align-items-center gap-3 mt-4 small text-muted">
+          <span class="badge rounded-pill bg-primary-subtle text-dark px-3 py-2">Fast</span>
+          <span class="badge rounded-pill bg-success-subtle text-dark px-3 py-2">Accurate</span>
+          <span class="badge rounded-pill bg-info-subtle text-dark px-3 py-2">Secure</span>
+        </div>
+      </div>
+      <!-- Right Image -->
+      <div class="col-lg-6 text-center">
+        <img src="{{ url_for('static', filename='images/homepricee.jpg') }}" 
+             alt="House Illustration" 
+             class="img-fluid rounded-4 shadow-lg">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Features Section -->
+<section class="features-section py-5" style="background: #f7faff;">
+  <div class="container">
+    <h2 class="text-center fw-bold mb-5 text-dark">Why Choose <span class="text-primary">RealEstateAI</span>?</h2>
+    <div class="row g-4">
+      <div class="col-md-4">
+        <div class="card h-100 shadow-sm border-0 text-center p-4 rounded-4">
+          <div class="mb-3 text-primary">
+            <i class="bi bi-cpu display-5"></i>
+          </div>
+          <h5 class="card-title fw-bold">From-Scratch Models</h5>
+          <p class="card-text text-secondary">Custom Linear, Ridge, and XGBoost implementations trained on curated and synthetic datasets for accurate predictions.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card h-100 shadow-sm border-0 text-center p-4 rounded-4">
+          <div class="mb-3 text-success">
+            <i class="bi bi-ui-checks display-5"></i>
+          </div>
+          <h5 class="card-title fw-bold">Guided 2-Step Form</h5>
+          <p class="card-text text-secondary">Easily input key property features first, then refine with advanced options for a precise estimate.</p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card h-100 shadow-sm border-0 text-center p-4 rounded-4">
+          <div class="mb-3 text-info">
+            <i class="bi bi-lightning-charge display-5"></i>
+          </div>
+          <h5 class="card-title fw-bold">Instant Predictions</h5>
+          <p class="card-text text-secondary">Get fast, reliable property valuations through a clean and intuitive user interface.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- How It Works -->
+<section class="how-it-works py-5 bg-white text-dark">
+  <div class="container">
+    <h2 class="text-center fw-bold mb-5">How It Works</h2>
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <ol class="list-group list-group-numbered shadow-sm rounded-4 overflow-hidden">
+          <li class="list-group-item py-3">Register or Login to access the platform</li>
+          <li class="list-group-item py-3">Fill in property details (Step 1 → Step 2)</li>
+          <li class="list-group-item py-3">Receive your instant price estimate</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Call to Action -->
+<section class="cta-section py-5 text-light" style="background: linear-gradient(135deg, #9bbcff, #b6e1f5);">
+  <div class="container text-center">
+    <h2 class="fw-bold mb-3">Ready to Get Started?</h2>
+    <p class="lead mb-4">Join RealEstateAI today and predict house prices with confidence.</p>
+    {% if current_user.is_authenticated %}
+      <a href="{{ url_for('predict.step1') }}" class="btn btn-light btn-lg px-5 shadow rounded-pill">Start Predicting</a>
+    {% else %}
+      <a href="{{ url_for('auth.register') }}" class="btn btn-light btn-lg px-5 shadow rounded-pill">Sign Up</a>
+    {% endif %}
+  </div>
+</section>
+
+{% endblock %}
